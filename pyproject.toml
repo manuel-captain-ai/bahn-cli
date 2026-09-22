@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bahn-de"
+version = "0.4.1"
+description = "Cheapest European train and coach tickets from the command line: bahn.de, Flixbus, Omio and an Interrail pass calculator."
+requires-python = ">=3.10"
+dependencies = ["click>=8.0", "curl_cffi>=0.6", "pydantic>=2"]
+
+[project.optional-dependencies]
+# mistralai auf 1.x pinnen: die 2.x-Distribution auf PyPI ist ein kaputtes
+# leeres Namespace-Paket (kein `from mistralai import Mistral`). 1.11.1 läuft.
+# Nur für scripts/build_reliability_lookup.py — nicht Laufzeit der App.
+build = ["pyarrow>=14", "pandas>=2"]
+
+[project.scripts]
+bahn-de = "bahn_de.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["bahn_de*"]
+
+[tool.setuptools.package-data]
+bahn_de = ["skills/*.md", "data/*.json"]

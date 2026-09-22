@@ -1,0 +1,1249 @@
+{
+ "verbindungen": [
+  {
+   "verbindung": {
+    "reiseDauer": 17460,
+    "alternative": false,
+    "checksum": "26a09406_3",
+    "umstiegeAnzahl": 1,
+    "schemaVersion": "1.24.12",
+    "schemaName": "trip",
+    "kontext": "¶HKI¶T$A=1@O=Kiel Hbf@X=10131976@Y=54314982@L=8000199@a=128@$A=1@O=Hamburg Hbf@X=10006909@Y=53552733@L=8002549@a=128@$202611160816$202611160925$ICE           577$$1$$$$$$§T$A=1@O=Hamburg Hbf@X=10006909@Y=53552733@L=8002549@a=128@$A=1@O=Dresden Hbf@X=13732039@Y=51040562@L=8010085@a=128@$202611160934$202611161307$RJ            175$$1$$$$$$¶KC¶#VE#2#CF#100#CA#0#CM#0#SICT#0#AM#81#AM2#0#RT#7#¶KCC¶I1ZFIzEjRVJHIzIjSElOIzAjRUNLIzQ4ODY1Nnw0ODg2NTZ8NDg4OTQ3fDQ4ODk0N3wwfDB8NDg1fDQ4ODYzN3wxfDB8MjZ8MHwwfC0yMTQ3NDgzNjQ4I0dBTSMxNjExMjYwODE2IwpaI1ZOIzEjU1QjMTc4OTU4NTY1NSNQSSMwI1pJIzI0NzU4NCNUQSMwI0RBIzE2MTEyNiMxUyM4MDAwMTk5IzFUIzgxNiNMUyM4MDAwMDk2I0xUIzE0MzgjUFUjODAjUlQjMSNDQSNJQ0UjWkUjNTc3I1pCI0lDRSAgICAgICAgICAgNTc3I1BDIzAjRlIjODAwMDE5OSNGVCM4MTYjVE8jODAwMjU0OSNUVCM5MjUjClojVk4jMSNTVCMxNzg5NTg1NjU1I1BJIzAjWkkjMjQwNzE1I1RBIzAjREEjMTYxMTI2IzFTIzgwMDI1NTMjMVQjOTE2I0xTIzgwMTAwODUjTFQjMTMwNyNQVSM4MCNSVCMxI0NBI1JKI1pFIzE3NSNaQiNSSiAgICAgICAgICAgIDE3NSNQQyMwI0ZSIzgwMDI1NDkjRlQjOTM0I1RPIzgwMTAwODUjVFQjMTMwNyM=¶KRCC¶#VE#1#¶SC¶1_H4sIAAAAAAACA3WP70rDMBTFX0Xu5zpy26ZrC4G4leGfoWNsoogf6prNStrONB2W0efwgXwxk87BQM2nnMOPc87dw04oiAEHUQgOiA9tRDIa3CcDdI2hxDvEeyibYgIxdexnBDFxoGp0kmphaJe4ASIG0JuLvLAmCYl5xlr3CefowFvZTqRWU4if9qDbrcVm87vEQEWVWXV1OzZil8rGKiSuB91zP2r8ujkEm+ZMbKfV6hAj88yQFwz5HbvJhTy7fFnzB4YEPYyGAX9k1PfQj0KXL1lI+JTZXRhFfMtwGEY0pAGlPGfLr09iN6NHfG5G1Ppw3KRfkCr1Z2WiRJ2J8tjqDT2XeJFtReITGpy0oomn/7UGhJLfrRuhk/kCYq0a0atZJVuZl+LEuq4aVYp2VDVlVkO8TmX9w6Z1LfNaH1mxqmapSgsD7buu+wam0moq+AEAAA==",
+    "echtzeitNotizen": [],
+    "himNotizen": [],
+    "auslastungsInfos": [
+     {
+      "klasse": "KLASSE_1",
+      "stufe": 0,
+      "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+     },
+     {
+      "klasse": "KLASSE_2",
+      "stufe": 0,
+      "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+     }
+    ],
+    "serviceDays": [
+     {
+      "irregular": "nicht 22., 23. Sep, 26. Okt bis 1. Nov 2026, 27. Nov bis 5. Dez 2026",
+      "letztesDatumInZeitraum": "2026-12-12",
+      "planungsZeitraumAnfang": "2025-12-14",
+      "planungsZeitraumEnde": "2026-12-12",
+      "regular": "täglich",
+      "wochentage": [
+       "MO",
+       "DI",
+       "MI",
+       "DO",
+       "FR",
+       "SA",
+       "SO"
+      ]
+     }
+    ],
+    "verbindungsAbschnitte": [
+     {
+      "administrationId": "80____",
+      "risZuglaufId": "ICE_577",
+      "risAbfahrtId": "8000199_2026-11-16T08:16:00+01:00",
+      "kurztext": "ICE",
+      "mitteltext": "ICE 577",
+      "langtext": "ICE 577",
+      "zuglaufId": "2|#VN#1#ST#1789585655#PI#0#ZI#247584#TA#0#DA#161126#1S#8000199#1T#816#LS#8000096#LT#1438#PU#80#RT#1#CA#ICE#ZE#577#ZB#ICE           577#PC#0#FR#8000199#FT#816#TO#8000096#TT#1438#",
+      "reservierungsMeldungen": [],
+      "nummer": 0,
+      "abschnittsDauer": 4140,
+      "typ": "FAHRZEUG",
+      "halte": [
+       {
+        "abgangsDatum": "2026-11-16T08:16:00+01:00",
+        "ort": {
+         "name": "Kiel Hbf",
+         "locationId": "A=1@O=Kiel Hbf@X=10131976@Y=54314982@U=80@L=8000199@i=U×008001304@",
+         "evaNr": "8000199",
+         "position": {
+          "latitude": 54.3149,
+          "longitude": 10.131778
+         },
+         "stationId": "3174"
+        },
+        "gleis": "3",
+        "plattform": "3",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T08:32:00+01:00",
+        "abgangsDatum": "2026-11-16T08:34:00+01:00",
+        "ort": {
+         "name": "Neumünster",
+         "locationId": "A=1@O=Neumünster@X=9979815@Y=54075752@U=80@L=8000271@i=U×008001295@",
+         "evaNr": "8000271",
+         "position": {
+          "latitude": 54.076336,
+          "longitude": 9.980031
+         },
+         "stationId": "4420"
+        },
+        "gleis": "4",
+        "plattform": "4",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T09:25:00+01:00",
+        "ort": {
+         "name": "Hamburg Hbf",
+         "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+         "evaNr": "8002549",
+         "position": {
+          "latitude": 53.55353,
+          "longitude": 10.00636
+         },
+         "stationId": "2514"
+        },
+        "gleis": "14",
+        "plattform": "14",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       }
+      ],
+      "himNotizen": [],
+      "echtzeitNotizen": [],
+      "attributNotizen": [
+       {
+        "text": "Komfort Check-in verfügbar - wenn möglich bitte einchecken",
+        "key": "CK",
+        "priority": 200
+       },
+       {
+        "text": "Fahrradmitnahme reservierungspflichtig",
+        "key": "FR",
+        "priority": 260
+       },
+       {
+        "text": "Fahrradmitnahme begrenzt möglich",
+        "key": "FB",
+        "priority": 260
+       },
+       {
+        "text": "Bordrestaurant",
+        "key": "BR",
+        "priority": 450
+       },
+       {
+        "text": "Fahrzeuggebundene Einstiegshilfe vorhanden",
+        "key": "EH",
+        "priority": 560
+       },
+       {
+        "text": "DB Fernverkehr AG",
+        "key": "OP"
+       }
+      ],
+      "abgangsOrt": {
+       "name": "Kiel Hbf",
+       "locationId": "A=1@O=Kiel Hbf@X=10131976@Y=54314982@U=80@L=8000199@i=U×008001304@",
+       "evaNr": "8000199",
+       "position": {
+        "latitude": 54.3149,
+        "longitude": 10.131778
+       },
+       "stationId": "3174"
+      },
+      "abgangsDatum": "2026-11-16T08:16:00+01:00",
+      "ankunftsOrt": {
+       "name": "Hamburg Hbf",
+       "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+       "evaNr": "8002549",
+       "position": {
+        "latitude": 53.55353,
+        "longitude": 10.00636
+       },
+       "stationId": "2514"
+      },
+      "ankunftsDatum": "2026-11-16T09:25:00+01:00",
+      "verkehrsmittelNummer": "577",
+      "zugNummer": "577",
+      "richtung": "Stuttgart Hbf",
+      "produktGattung": "ICE",
+      "produktGattungen": "ICE",
+      "wagenreihung": true,
+      "auslastungsInfos": [
+       {
+        "klasse": "KLASSE_1",
+        "stufe": 0,
+        "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+       },
+       {
+        "klasse": "KLASSE_2",
+        "stufe": 0,
+        "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+       }
+      ],
+      "parallelZuege": [],
+      "weiterfahrtAmGleichenBahnsteig": false,
+      "weitereAbfahrten": false
+     },
+     {
+      "reservierungsMeldungen": [],
+      "typ": "FUSSWEG",
+      "himNotizen": [],
+      "echtzeitNotizen": [],
+      "attributNotizen": [],
+      "parallelZuege": [],
+      "auslastungsInfos": [],
+      "wagenreihung": false,
+      "weiterfahrtAmGleichenBahnsteig": false,
+      "abschnittsDauer": 540,
+      "abschnittsReferenz": "2|#VN#1#ST#1789585655#PI#0#ZI#247584#TA#0#DA#161126#1S#8000199#1T#816#LS#8000096#LT#1438#PU#80#RT#1#CA#ICE#ZE#577#ZB#ICE           577#PC#0#FR#8000199#FT#816#TO#8000096#TT#1438#",
+      "halte": [
+       {
+        "ankunftsDatum": "2026-11-16T09:25:00+01:00",
+        "ort": {
+         "name": "Hamburg Hbf",
+         "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+         "evaNr": "8002549",
+         "position": {
+          "latitude": 53.55353,
+          "longitude": 10.00636
+         },
+         "stationId": "2514"
+        },
+        "gleis": "14",
+        "plattform": "14",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "abgangsDatum": "2026-11-16T09:34:00+01:00",
+        "ort": {
+         "name": "Hamburg Hbf",
+         "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+         "evaNr": "8002549",
+         "position": {
+          "latitude": 53.55353,
+          "longitude": 10.00636
+         },
+         "stationId": "2514"
+        },
+        "gleis": "8",
+        "plattform": "8",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [],
+        "istZusatzhalt": false
+       }
+      ],
+      "abgangsDatum": "2026-11-16T09:25:00+01:00",
+      "abgangsOrt": {
+       "name": "Hamburg Hbf",
+       "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+       "evaNr": "8002549",
+       "position": {
+        "latitude": 53.55353,
+        "longitude": 10.00636
+       },
+       "stationId": "2514"
+      },
+      "ankunftsDatum": "2026-11-16T09:34:00+01:00",
+      "ankunftsOrt": {
+       "name": "Hamburg Hbf",
+       "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+       "evaNr": "8002549",
+       "position": {
+        "latitude": 53.55353,
+        "longitude": 10.00636
+       },
+       "stationId": "2514"
+      },
+      "weitereAbfahrten": false
+     },
+     {
+      "administrationId": "80____",
+      "risZuglaufId": "RJ_175",
+      "risAbfahrtId": "8002549_2026-11-16T09:34:00+01:00",
+      "kurztext": "RJ",
+      "mitteltext": "RJ 175",
+      "langtext": "RJ 175",
+      "zuglaufId": "2|#VN#1#ST#1789585655#PI#0#ZI#240715#TA#0#DA#161126#1S#8002553#1T#916#LS#8010085#LT#1307#PU#80#RT#1#CA#RJ#ZE#175#ZB#RJ            175#PC#0#FR#8002553#FT#916#TO#8010085#TT#1307#",
+      "reservierungsMeldungen": [],
+      "nummer": 1,
+      "abschnittsDauer": 12780,
+      "typ": "FAHRZEUG",
+      "halte": [
+       {
+        "abgangsDatum": "2026-11-16T09:34:00+01:00",
+        "ort": {
+         "name": "Hamburg Hbf",
+         "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+         "evaNr": "8002549",
+         "position": {
+          "latitude": 53.55353,
+          "longitude": 10.00636
+         },
+         "stationId": "2514"
+        },
+        "gleis": "8",
+        "plattform": "8",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T11:12:00+01:00",
+        "abgangsDatum": "2026-11-16T11:14:00+01:00",
+        "ort": {
+         "name": "Berlin-Spandau",
+         "locationId": "A=1@O=Berlin-Spandau@X=13196902@Y=52534650@U=80@L=8010404@i=U×008003025@",
+         "evaNr": "8010404",
+         "position": {
+          "latitude": 52.533787,
+          "longitude": 13.200947
+         },
+         "stationId": "0561"
+        },
+        "gleis": "5",
+        "plattform": "5",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T11:23:00+01:00",
+        "abgangsDatum": "2026-11-16T11:28:00+01:00",
+        "ort": {
+         "name": "Berlin Hbf",
+         "locationId": "A=1@O=Berlin Hbf@X=13369549@Y=52525589@U=80@L=8098160@i=U×008031922@",
+         "evaNr": "8098160",
+         "mainMastEvaNr": "8011160",
+         "position": {
+          "latitude": 52.52585,
+          "longitude": 13.368892
+         },
+         "stationId": "1071"
+        },
+        "gleis": "3",
+        "plattform": "3",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T11:35:00+01:00",
+        "abgangsDatum": "2026-11-16T11:37:00+01:00",
+        "ort": {
+         "name": "Berlin Südkreuz",
+         "locationId": "A=1@O=Berlin Südkreuz@X=13365315@Y=52475043@U=80@L=8011113@i=U×008065971@",
+         "evaNr": "8011113",
+         "position": {
+          "latitude": 52.47623,
+          "longitude": 13.365863
+         },
+         "stationId": "4859"
+        },
+        "gleis": "3",
+        "plattform": "3",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T13:00:00+01:00",
+        "abgangsDatum": "2026-11-16T13:02:00+01:00",
+        "ort": {
+         "name": "Dresden-Neustadt",
+         "locationId": "A=1@O=Dresden-Neustadt@X=13740704@Y=51065903@U=80@L=8010089@i=U×008006216@",
+         "evaNr": "8010089",
+         "position": {
+          "latitude": 51.06591,
+          "longitude": 13.740524
+         },
+         "stationId": "1352"
+        },
+        "gleis": "7",
+        "plattform": "7",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "serviceNotiz": {
+         "key": "text.realtime.stop.entry.disabled",
+         "text": "Hält nur zum Aussteigen"
+        },
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T13:07:00+01:00",
+        "ort": {
+         "name": "Dresden Hbf",
+         "locationId": "A=1@O=Dresden Hbf@X=13732039@Y=51040562@U=80@L=8010085@i=U×008006050@",
+         "evaNr": "8010085",
+         "position": {
+          "latitude": 51.040222,
+          "longitude": 13.731409
+         },
+         "stationId": "1343"
+        },
+        "gleis": "1",
+        "plattform": "1",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       }
+      ],
+      "himNotizen": [],
+      "echtzeitNotizen": [],
+      "attributNotizen": [
+       {
+        "text": "Fahrradmitnahme reservierungspflichtig",
+        "key": "FR",
+        "priority": 260
+       },
+       {
+        "text": "Fahrradmitnahme begrenzt möglich",
+        "key": "FB",
+        "priority": 260
+       },
+       {
+        "text": "Bordrestaurant",
+        "key": "BR",
+        "priority": 450
+       },
+       {
+        "text": "Fahrzeuggebundene Einstiegshilfe vorhanden",
+        "key": "EH",
+        "priority": 560
+       },
+       {
+        "text": "DB Fernverkehr AG",
+        "key": "OP"
+       }
+      ],
+      "abgangsOrt": {
+       "name": "Hamburg Hbf",
+       "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+       "evaNr": "8002549",
+       "position": {
+        "latitude": 53.55353,
+        "longitude": 10.00636
+       },
+       "stationId": "2514"
+      },
+      "abgangsDatum": "2026-11-16T09:34:00+01:00",
+      "ankunftsOrt": {
+       "name": "Dresden Hbf",
+       "locationId": "A=1@O=Dresden Hbf@X=13732039@Y=51040562@U=80@L=8010085@i=U×008006050@",
+       "evaNr": "8010085",
+       "position": {
+        "latitude": 51.040222,
+        "longitude": 13.731409
+       },
+       "stationId": "1343"
+      },
+      "ankunftsDatum": "2026-11-16T13:07:00+01:00",
+      "verkehrsmittelNummer": "175",
+      "zugNummer": "175",
+      "richtung": "Dresden Hbf",
+      "produktGattung": "ICE",
+      "produktGattungen": "ICE",
+      "wagenreihung": true,
+      "auslastungsInfos": [
+       {
+        "klasse": "KLASSE_1",
+        "stufe": 0,
+        "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+       },
+       {
+        "klasse": "KLASSE_2",
+        "stufe": 0,
+        "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+       }
+      ],
+      "parallelZuege": [],
+      "weiterfahrtAmGleichenBahnsteig": false,
+      "weitereAbfahrten": false
+     }
+    ],
+    "zusaetzlicherZubringer": false
+   },
+   "angebote": {
+    "angebotsMeldungen": [],
+    "angebotsHinweise": [],
+    "angebotsHinweisDetails": [],
+    "angebotsInformationen": [],
+    "reservierungsMeldungen": [],
+    "alterseingabeErforderlich": false,
+    "angebotseinholungNachgelagert": false,
+    "angebotsCluster": [],
+    "preise": {
+     "istTeilpreis": false,
+     "hinRueckPauschalpreis": false,
+     "gesamt": {
+      "klasse": "KLASSE_2",
+      "ab": {
+       "waehrung": "EUR",
+       "betrag": 22.49
+      },
+      "streichpreis": {
+       "waehrung": "EUR",
+       "betrag": 29.99
+      }
+     }
+    },
+    "fahrradmitnahmeMoeglich": "KEINE_ANZEIGE",
+    "rollstuhlmitnahmeMoeglich": "KEINE_ANZEIGE"
+   }
+  },
+  {
+   "verbindung": {
+    "reiseDauer": 17460,
+    "alternative": false,
+    "checksum": "2b71e044_3",
+    "umstiegeAnzahl": 1,
+    "schemaVersion": "1.24.12",
+    "schemaName": "trip",
+    "kontext": "¶HKI¶T$A=1@O=Kiel Hbf@X=10131976@Y=54314982@L=8000199@a=128@$A=1@O=Hamburg Hbf@X=10006909@Y=53552733@L=8002549@a=128@$202611161016$202611161125$ICE           579$$1$$$$$$§T$A=1@O=Hamburg Hbf@X=10006909@Y=53552733@L=8002549@a=128@$A=1@O=Dresden Hbf@X=13732039@Y=51040562@L=8010085@a=128@$202611161133$202611161507$RJ            383$$1$$$$$$¶KC¶#VE#2#CF#100#CA#0#CM#0#SICT#0#AM#81#AM2#0#RT#7#¶KCC¶I1ZFIzEjRVJHIzIjSElOIzAjRUNLIzQ4ODc3Nnw0ODg3NzZ8NDg5MDY3fDQ4OTA2N3wwfDB8NDg1fDQ4ODY1N3wyfDB8MjZ8MHwwfC0yMTQ3NDgzNjQ4I0dBTSMxNjExMjYxMDE2IwpaI1ZOIzEjU1QjMTc4OTU4NTY1NSNQSSMwI1pJIzI0NzYyNyNUQSMwI0RBIzE2MTEyNiMxUyM4MDAwMTk5IzFUIzEwMTYjTFMjODAwMDA5NiNMVCMxNjM4I1BVIzgwI1JUIzEjQ0EjSUNFI1pFIzU3OSNaQiNJQ0UgICAgICAgICAgIDU3OSNQQyMwI0ZSIzgwMDAxOTkjRlQjMTAxNiNUTyM4MDAyNTQ5I1RUIzExMjUjClojVk4jMSNTVCMxNzg5NTg1NjU1I1BJIzAjWkkjMzk0OTE4I1RBIzAjREEjMTYxMTI2IzFTIzg2MDEzMDkjMVQjNjIyI0xTIzgwMTAwODUjTFQjMTUwNyNQVSM4MCNSVCMxI0NBI1JKI1pFIzM4MyNaQiNSSiAgICAgICAgICAgIDM4MyNQQyMwI0ZSIzgwMDI1NDkjRlQjMTEzMyNUTyM4MDEwMDg1I1RUIzE1MDcj¶KRCC¶#VE#1#¶SC¶1_H4sIAAAAAAACA3WP70rDMBTFX0Xu5zpy26ZrC4G4leGfoWNsoogf6prNStrONB2W0efwgXwxk87BQM2nnMOPc87dw04oiAEHUQgOiA9tRDIa3CcDdI2hxDvEeyibYgIxdexnBDFxoGp0kmphaJe4ASIG0JuLvLAmCYl5xlr3CefowFvZTqRWU4if9qDbrcVm87vEQEWVWXV1OzZil8rGKiSuB91zP2r8ujkEm+ZMbKfV6hAj88yQFwz5HbvJhTy7fFnzB4YEPYyGAX9k1PfQj0KXL1lI+JTZXRhFfMtwGEY0pAGlPGfLr09iN6NHfG5G1Ppw3KRfkCr1Z2WiRJ2J8tjqDT2XeJFtReITGpy0oomn/7UGhJLfrRuhk/kCYq0a0atZJVuZl+LEuq4aVYp2VDVlVkO8TmX9w6Z1LfNaH1mxqmapSgsD7buu+wam0moq+AEAAA==",
+    "echtzeitNotizen": [],
+    "himNotizen": [],
+    "auslastungsInfos": [
+     {
+      "klasse": "KLASSE_1",
+      "stufe": 0,
+      "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+     },
+     {
+      "klasse": "KLASSE_2",
+      "stufe": 0,
+      "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+     }
+    ],
+    "serviceDays": [
+     {
+      "irregular": "nicht 22., 23. Sep, 26. Okt bis 1. Nov 2026, 27. Nov bis 5. Dez 2026",
+      "letztesDatumInZeitraum": "2026-12-12",
+      "planungsZeitraumAnfang": "2025-12-14",
+      "planungsZeitraumEnde": "2026-12-12",
+      "regular": "täglich",
+      "wochentage": [
+       "MO",
+       "DI",
+       "MI",
+       "DO",
+       "FR",
+       "SA",
+       "SO"
+      ]
+     }
+    ],
+    "verbindungsAbschnitte": [
+     {
+      "administrationId": "80____",
+      "risZuglaufId": "ICE_579",
+      "risAbfahrtId": "8000199_2026-11-16T10:16:00+01:00",
+      "kurztext": "ICE",
+      "mitteltext": "ICE 579",
+      "langtext": "ICE 579",
+      "zuglaufId": "2|#VN#1#ST#1789585655#PI#0#ZI#247627#TA#0#DA#161126#1S#8000199#1T#1016#LS#8000096#LT#1638#PU#80#RT#1#CA#ICE#ZE#579#ZB#ICE           579#PC#0#FR#8000199#FT#1016#TO#8000096#TT#1638#",
+      "reservierungsMeldungen": [],
+      "nummer": 0,
+      "abschnittsDauer": 4140,
+      "typ": "FAHRZEUG",
+      "halte": [
+       {
+        "abgangsDatum": "2026-11-16T10:16:00+01:00",
+        "ort": {
+         "name": "Kiel Hbf",
+         "locationId": "A=1@O=Kiel Hbf@X=10131976@Y=54314982@U=80@L=8000199@i=U×008001304@",
+         "evaNr": "8000199",
+         "position": {
+          "latitude": 54.3149,
+          "longitude": 10.131778
+         },
+         "stationId": "3174"
+        },
+        "gleis": "3",
+        "plattform": "3",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T10:32:00+01:00",
+        "abgangsDatum": "2026-11-16T10:34:00+01:00",
+        "ort": {
+         "name": "Neumünster",
+         "locationId": "A=1@O=Neumünster@X=9979815@Y=54075752@U=80@L=8000271@i=U×008001295@",
+         "evaNr": "8000271",
+         "position": {
+          "latitude": 54.076336,
+          "longitude": 9.980031
+         },
+         "stationId": "4420"
+        },
+        "gleis": "4",
+        "plattform": "4",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T11:25:00+01:00",
+        "ort": {
+         "name": "Hamburg Hbf",
+         "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+         "evaNr": "8002549",
+         "position": {
+          "latitude": 53.55353,
+          "longitude": 10.00636
+         },
+         "stationId": "2514"
+        },
+        "gleis": "14",
+        "plattform": "14",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       }
+      ],
+      "himNotizen": [],
+      "echtzeitNotizen": [],
+      "attributNotizen": [
+       {
+        "text": "Komfort Check-in verfügbar - wenn möglich bitte einchecken",
+        "key": "CK",
+        "priority": 200
+       },
+       {
+        "text": "Fahrradmitnahme reservierungspflichtig",
+        "key": "FR",
+        "priority": 260
+       },
+       {
+        "text": "Fahrradmitnahme begrenzt möglich",
+        "key": "FB",
+        "priority": 260
+       },
+       {
+        "text": "Bordrestaurant",
+        "key": "BR",
+        "priority": 450
+       },
+       {
+        "text": "Fahrzeuggebundene Einstiegshilfe vorhanden",
+        "key": "EH",
+        "priority": 560
+       },
+       {
+        "text": "DB Fernverkehr AG",
+        "key": "OP"
+       }
+      ],
+      "abgangsOrt": {
+       "name": "Kiel Hbf",
+       "locationId": "A=1@O=Kiel Hbf@X=10131976@Y=54314982@U=80@L=8000199@i=U×008001304@",
+       "evaNr": "8000199",
+       "position": {
+        "latitude": 54.3149,
+        "longitude": 10.131778
+       },
+       "stationId": "3174"
+      },
+      "abgangsDatum": "2026-11-16T10:16:00+01:00",
+      "ankunftsOrt": {
+       "name": "Hamburg Hbf",
+       "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+       "evaNr": "8002549",
+       "position": {
+        "latitude": 53.55353,
+        "longitude": 10.00636
+       },
+       "stationId": "2514"
+      },
+      "ankunftsDatum": "2026-11-16T11:25:00+01:00",
+      "verkehrsmittelNummer": "579",
+      "zugNummer": "579",
+      "richtung": "Stuttgart Hbf",
+      "produktGattung": "ICE",
+      "produktGattungen": "ICE",
+      "wagenreihung": true,
+      "auslastungsInfos": [
+       {
+        "klasse": "KLASSE_1",
+        "stufe": 0,
+        "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+       },
+       {
+        "klasse": "KLASSE_2",
+        "stufe": 0,
+        "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+       }
+      ],
+      "parallelZuege": [],
+      "weiterfahrtAmGleichenBahnsteig": false,
+      "weitereAbfahrten": false
+     },
+     {
+      "reservierungsMeldungen": [],
+      "typ": "FUSSWEG",
+      "himNotizen": [],
+      "echtzeitNotizen": [],
+      "attributNotizen": [],
+      "parallelZuege": [],
+      "auslastungsInfos": [],
+      "wagenreihung": false,
+      "weiterfahrtAmGleichenBahnsteig": false,
+      "abschnittsDauer": 480,
+      "abschnittsReferenz": "2|#VN#1#ST#1789585655#PI#0#ZI#247627#TA#0#DA#161126#1S#8000199#1T#1016#LS#8000096#LT#1638#PU#80#RT#1#CA#ICE#ZE#579#ZB#ICE           579#PC#0#FR#8000199#FT#1016#TO#8000096#TT#1638#",
+      "halte": [
+       {
+        "ankunftsDatum": "2026-11-16T11:25:00+01:00",
+        "ort": {
+         "name": "Hamburg Hbf",
+         "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+         "evaNr": "8002549",
+         "position": {
+          "latitude": 53.55353,
+          "longitude": 10.00636
+         },
+         "stationId": "2514"
+        },
+        "gleis": "14",
+        "plattform": "14",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "abgangsDatum": "2026-11-16T11:33:00+01:00",
+        "ort": {
+         "name": "Hamburg Hbf",
+         "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+         "evaNr": "8002549",
+         "position": {
+          "latitude": 53.55353,
+          "longitude": 10.00636
+         },
+         "stationId": "2514"
+        },
+        "gleis": "8",
+        "plattform": "8",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [],
+        "istZusatzhalt": false
+       }
+      ],
+      "abgangsDatum": "2026-11-16T11:25:00+01:00",
+      "abgangsOrt": {
+       "name": "Hamburg Hbf",
+       "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+       "evaNr": "8002549",
+       "position": {
+        "latitude": 53.55353,
+        "longitude": 10.00636
+       },
+       "stationId": "2514"
+      },
+      "ankunftsDatum": "2026-11-16T11:33:00+01:00",
+      "ankunftsOrt": {
+       "name": "Hamburg Hbf",
+       "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+       "evaNr": "8002549",
+       "position": {
+        "latitude": 53.55353,
+        "longitude": 10.00636
+       },
+       "stationId": "2514"
+      },
+      "weitereAbfahrten": false
+     },
+     {
+      "administrationId": "80____",
+      "risZuglaufId": "RJ_383",
+      "risAbfahrtId": "8002549_2026-11-16T11:33:00+01:00",
+      "kurztext": "RJ",
+      "mitteltext": "RJ 383",
+      "langtext": "RJ 383",
+      "zuglaufId": "2|#VN#1#ST#1789585655#PI#0#ZI#394918#TA#0#DA#161126#1S#8601309#1T#622#LS#8010085#LT#1507#PU#80#RT#1#CA#RJ#ZE#383#ZB#RJ            383#PC#0#FR#8601309#FT#622#TO#8010085#TT#1507#",
+      "reservierungsMeldungen": [],
+      "nummer": 1,
+      "abschnittsDauer": 12840,
+      "typ": "FAHRZEUG",
+      "halte": [
+       {
+        "abgangsDatum": "2026-11-16T11:33:00+01:00",
+        "ort": {
+         "name": "Hamburg Hbf",
+         "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+         "evaNr": "8002549",
+         "position": {
+          "latitude": 53.55353,
+          "longitude": 10.00636
+         },
+         "stationId": "2514"
+        },
+        "gleis": "8",
+        "plattform": "8",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T13:23:00+01:00",
+        "abgangsDatum": "2026-11-16T13:28:00+01:00",
+        "ort": {
+         "name": "Berlin Hbf",
+         "locationId": "A=1@O=Berlin Hbf@X=13369549@Y=52525589@U=80@L=8098160@i=U×008031922@",
+         "evaNr": "8098160",
+         "mainMastEvaNr": "8011160",
+         "position": {
+          "latitude": 52.52585,
+          "longitude": 13.368892
+         },
+         "stationId": "1071"
+        },
+        "gleis": "3",
+        "plattform": "3",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T13:35:00+01:00",
+        "abgangsDatum": "2026-11-16T13:40:00+01:00",
+        "ort": {
+         "name": "Berlin Südkreuz",
+         "locationId": "A=1@O=Berlin Südkreuz@X=13365315@Y=52475043@U=80@L=8011113@i=U×008065971@",
+         "evaNr": "8011113",
+         "position": {
+          "latitude": 52.47623,
+          "longitude": 13.365863
+         },
+         "stationId": "4859"
+        },
+        "gleis": "3",
+        "plattform": "3",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T15:00:00+01:00",
+        "abgangsDatum": "2026-11-16T15:02:00+01:00",
+        "ort": {
+         "name": "Dresden-Neustadt",
+         "locationId": "A=1@O=Dresden-Neustadt@X=13740704@Y=51065903@U=80@L=8010089@i=U×008006216@",
+         "evaNr": "8010089",
+         "position": {
+          "latitude": 51.06591,
+          "longitude": 13.740524
+         },
+         "stationId": "1352"
+        },
+        "gleis": "7",
+        "plattform": "7",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "serviceNotiz": {
+         "key": "text.realtime.stop.entry.disabled",
+         "text": "Hält nur zum Aussteigen"
+        },
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       },
+       {
+        "ankunftsDatum": "2026-11-16T15:07:00+01:00",
+        "ort": {
+         "name": "Dresden Hbf",
+         "locationId": "A=1@O=Dresden Hbf@X=13732039@Y=51040562@U=80@L=8010085@i=U×008006050@",
+         "evaNr": "8010085",
+         "position": {
+          "latitude": 51.040222,
+          "longitude": 13.731409
+         },
+         "stationId": "1343"
+        },
+        "gleis": "1",
+        "plattform": "1",
+        "plattformTyp": "PL",
+        "attributNotizen": [],
+        "echtzeitNotizen": [],
+        "himNotizen": [],
+        "auslastungsInfos": [
+         {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         },
+         {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+         }
+        ],
+        "istZusatzhalt": false
+       }
+      ],
+      "himNotizen": [],
+      "echtzeitNotizen": [],
+      "attributNotizen": [
+       {
+        "text": "Fahrradmitnahme reservierungspflichtig",
+        "key": "FR",
+        "priority": 260
+       },
+       {
+        "text": "Fahrradmitnahme begrenzt möglich",
+        "key": "FB",
+        "priority": 260
+       },
+       {
+        "text": "Bordrestaurant",
+        "key": "BR",
+        "priority": 450
+       },
+       {
+        "text": "Fahrzeuggebundene Einstiegshilfe vorhanden",
+        "key": "EH",
+        "priority": 560
+       },
+       {
+        "text": "DB Fernverkehr AG",
+        "key": "OP"
+       }
+      ],
+      "abgangsOrt": {
+       "name": "Hamburg Hbf",
+       "locationId": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+       "evaNr": "8002549",
+       "position": {
+        "latitude": 53.55353,
+        "longitude": 10.00636
+       },
+       "stationId": "2514"
+      },
+      "abgangsDatum": "2026-11-16T11:33:00+01:00",
+      "ankunftsOrt": {
+       "name": "Dresden Hbf",
+       "locationId": "A=1@O=Dresden Hbf@X=13732039@Y=51040562@U=80@L=8010085@i=U×008006050@",
+       "evaNr": "8010085",
+       "position": {
+        "latitude": 51.040222,
+        "longitude": 13.731409
+       },
+       "stationId": "1343"
+      },
+      "ankunftsDatum": "2026-11-16T15:07:00+01:00",
+      "verkehrsmittelNummer": "383",
+      "zugNummer": "383",
+      "richtung": "Dresden Hbf",
+      "produktGattung": "ICE",
+      "produktGattungen": "ICE",
+      "wagenreihung": true,
+      "auslastungsInfos": [
+       {
+        "klasse": "KLASSE_1",
+        "stufe": 0,
+        "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+       },
+       {
+        "klasse": "KLASSE_2",
+        "stufe": 0,
+        "anzeigeTextKurz": "Keine Auslastungsinformation verfügbar"
+       }
+      ],
+      "parallelZuege": [],
+      "weiterfahrtAmGleichenBahnsteig": false,
+      "weitereAbfahrten": false
+     }
+    ],
+    "zusaetzlicherZubringer": false
+   },
+   "angebote": {
+    "angebotsMeldungen": [],
+    "angebotsHinweise": [],
+    "angebotsHinweisDetails": [],
+    "angebotsInformationen": [],
+    "reservierungsMeldungen": [],
+    "alterseingabeErforderlich": false,
+    "angebotseinholungNachgelagert": false,
+    "angebotsCluster": [],
+    "preise": {
+     "istTeilpreis": false,
+     "hinRueckPauschalpreis": false,
+     "gesamt": {
+      "klasse": "KLASSE_2",
+      "ab": {
+       "waehrung": "EUR",
+       "betrag": 35.99
+      },
+      "streichpreis": {
+       "waehrung": "EUR",
+       "betrag": 47.99
+      }
+     }
+    },
+    "fahrradmitnahmeMoeglich": "KEINE_ANZEIGE",
+    "rollstuhlmitnahmeMoeglich": "KEINE_ANZEIGE"
+   }
+  }
+ ]
+}

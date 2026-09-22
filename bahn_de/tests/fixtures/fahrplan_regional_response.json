@@ -1,0 +1,1730 @@
+{
+  "verbindungen": [
+    {
+      "tripId": "b2d15be4_3",
+      "ctxRecon": "¶HKI¶T$A=1@O=Hamburg Hbf (S-Bahn)@X=10007924@Y=53552805@L=8098549@a=128@$A=1@O=Hamburg-Harburg(S)@X=9991456@Y=53456962@L=8098147@a=128@$202606190902$202606190917$               S5$$1$$$$$$¶KC¶#VE#2#CF#100#CA#0#CM#0#SICT#0#AM#81#AM2#0#RT#7#¶KCC¶I1ZFIzEjRVJHIzEjSElOIzAjRUNLIzI3MjcwMnwyNzI3MDJ8MjcyNzE3fDI3MjcxN3wwfDB8MTY1fDI3MjY5N3wxfDB8MTA1MHwwfDB8LTIxNDc0ODM2NDgjR0FNIzE5MDYyNjA5MDIjClojVk4jMSNTVCMxNzgwOTQ1NzcwI1BJIzAjWkkjMTgwNDIwOCNUQSMxI0RBIzE5MDYyNiMxUyM4MDAxNzM5IzFUIzg0MyNMUyM4MDAwMDg5I0xUIzEwMDUjUFUjODAjUlQjMSNDQSNEQlMjWkUjUzUjWkIjICAgICAgICAgICAgICAgUzUjUEMjNCNGUiM4MDk4NTQ5I0ZUIzkwMiNUTyM4MDk4MTQ3I1RUIzkxNyM=¶KRCC¶#VE#1#¶SC¶1_H4sIAAAAAAACA32PUWuDMBSF/8q4z7YkauwiCK6V0o2ySunGxthDWtPOEU0XY5mI/31XZVAYLA9JzsnJd5IWLtJACHTKGTggvy2KZD59TqbURcPILwhbKOtiCSFz+s0cQuKArm0irMS0S9yABJTDYO7yojcJJzjQOg6ECXXgs2yWypo1hG8t2Obcx9LtJsFQobNe3T8uUFyEqnvl+wS69+FNi4/TyMXiTJ7X+jBSVJ5h8C6i8SZaiWJfm9PNan+MXyKK7QEnPH6NmMeYO/O8+Cm6JfEaJ+Iyn8dYVdnxC8uhSBjzH3myEqZfkc45pwEf4T5jnJIrOKH+7C/8JG2y3UFoTS0HlWrVqLzExFGoavQedG1K2cx1XWbV9UEqqkrllf29Lw86FUYUGGq7rvsBlDb2IsYBAAA=",
+      "verbindungsAbschnitte": [
+        {
+          "risNotizen": [],
+          "himMeldungen": [],
+          "priorisierteMeldungen": [],
+          "externeBahnhofsinfoIdOrigin": "2514",
+          "externeBahnhofsinfoIdDestination": "2519",
+          "abfahrtsOrt": "Hamburg Hbf (S-Bahn)",
+          "startHalt": {
+            "extId": "8098549",
+            "name": "Hamburg Hbf (S-Bahn)",
+            "abfahrt": {
+              "sollzeit": "2026-06-19T09:02:00"
+            }
+          },
+          "zielHalt": {
+            "extId": "8098147",
+            "name": "Hamburg-Harburg(S)",
+            "ankunft": {
+              "sollzeit": "2026-06-19T09:17:00"
+            }
+          },
+          "destinationCancelled": false,
+          "originCancelled": false,
+          "abfahrtsOrtExtId": "8098549",
+          "abschnittsDauer": 900,
+          "abschnittsAnteil": 100,
+          "ankunftsOrt": "Hamburg-Harburg(S)",
+          "ankunftsOrtExtId": "8098147",
+          "auslastungsmeldungen": [
+            {
+              "klasse": "KLASSE_1",
+              "stufe": 0
+            },
+            {
+              "klasse": "KLASSE_2",
+              "stufe": 0
+            }
+          ],
+          "abfahrt": {
+            "sollzeit": "2026-06-19T09:02:00"
+          },
+          "ankunft": {
+            "sollzeit": "2026-06-19T09:17:00"
+          },
+          "halte": [
+            {
+              "id": "A=1@O=Hamburg Hbf (S-Bahn)@X=10007924@Y=53552805@U=80@L=8098549@i=U×008001020@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:02:00"
+              },
+              "gleis": "4",
+              "haltTyp": "PL",
+              "name": "Hamburg Hbf (S-Bahn)",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2514",
+              "extId": "8098549",
+              "himMeldungen": [],
+              "adminID": "0S",
+              "routeIdx": 8,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Hammerbrook@X=10023611@Y=53546611@U=80@L=8004266@i=U×008001040@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:05:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:04:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Hammerbrook",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2533",
+              "extId": "8004266",
+              "adminID": "0S",
+              "routeIdx": 9,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg Elbbrücken@X=10024797@Y=53534844@U=80@L=8002551@i=U×008030476@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:07:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:07:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg Elbbrücken",
+              "risNotizen": [],
+              "bahnhofsInfoId": "8314",
+              "extId": "8002551",
+              "adminID": "0S",
+              "routeIdx": 10,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Veddel@X=10013309@Y=53521702@U=80@L=8006062@i=U×008001041@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:10:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:09:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Veddel",
+              "risNotizen": [],
+              "bahnhofsInfoId": "6399",
+              "extId": "8006062",
+              "adminID": "0S",
+              "routeIdx": 11,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Wilhelmsburg@X=10007008@Y=53498932@U=80@L=8002561@i=U×008001042@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:13:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:12:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Wilhelmsburg",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2523",
+              "extId": "8002561",
+              "adminID": "0S",
+              "routeIdx": 12,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Harburg(S)@X=9991456@Y=53456962@U=80@L=8098147@i=U×008001043@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:17:00"
+              },
+              "gleis": "12",
+              "haltTyp": "PL",
+              "name": "Hamburg-Harburg(S)",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2519",
+              "extId": "8098147",
+              "himMeldungen": [],
+              "adminID": "0S",
+              "routeIdx": 13,
+              "priorisierteMeldungen": []
+            }
+          ],
+          "idx": 0,
+          "journeyId": "2|#VN#1#ST#1780945770#PI#0#ZI#1804208#TA#1#DA#190626#1S#8001739#1T#843#LS#8000089#LT#1005#PU#80#RT#1#CA#DBS#ZE#S5#ZB#               S5#PC#4#FR#8001739#FT#843#TO#8000089#TT#1005#",
+          "samePlatform": false,
+          "verkehrsmittel": {
+            "produktGattung": "SBAHN",
+            "kategorie": "DBS",
+            "linienNummer": "S5",
+            "name": "S5",
+            "nummer": "S5",
+            "richtung": "Stade",
+            "typ": "PUBLICTRANSPORT",
+            "zugattribute": [
+              {
+                "kategorie": "BEFÖRDERER",
+                "key": "BEF",
+                "value": "S-Bahn Hamburg"
+              },
+              {
+                "kategorie": "FAHRRADMITNAHME",
+                "key": "FB",
+                "value": "Number of bicycles conveyed limited",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "FS",
+                "value": "conveying bicycles: mind the excluded times",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "K2",
+                "value": "2nd class only",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "SI",
+                "value": "Barrierefreier Zustieg an geeigneten Stationen möglich",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "HM",
+                "value": "Info https://www.hvv.de/de/barrierefrei",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              }
+            ],
+            "kurzText": "S",
+            "mittelText": "S5",
+            "langText": "S5"
+          }
+        }
+      ],
+      "umstiegsAnzahl": 0,
+      "verbindungsDauerInSeconds": 900,
+      "isAlternativeVerbindung": false,
+      "auslastungsmeldungen": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0
+        }
+      ],
+      "auslastungstexte": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        }
+      ],
+      "himMeldungen": [],
+      "risNotizen": [],
+      "priorisierteMeldungen": [],
+      "reservierungsMeldungen": [],
+      "isAngebotseinholungNachgelagert": false,
+      "isAlterseingabeErforderlich": false,
+      "serviceDays": [
+        {
+          "lastDateInPeriod": "2026-12-11",
+          "regular": "Mo - Fr",
+          "irregular": "not 9. until 16. Jul 2026",
+          "planningPeriodBegin": "2025-12-14",
+          "planningPeriodEnd": "2026-12-12",
+          "weekdays": [
+            "MO",
+            "DI",
+            "MI",
+            "DO",
+            "FR"
+          ]
+        }
+      ],
+      "hasTeilpreis": false,
+      "reiseAngebote": [],
+      "verbundCode": "47",
+      "hinRueckPauschalpreis": false,
+      "isReservierungAusserhalbVorverkaufszeitraum": false,
+      "gesamtAngebotsbeziehungList": []
+    },
+    {
+      "tripId": "293e5cb2_3",
+      "ctxRecon": "¶HKI¶T$A=1@O=Hamburg Hbf@X=10006909@Y=53552733@L=8002549@a=128@$A=1@O=Hamburg-Harburg@X=9991699@Y=53455910@L=8000147@a=128@$202606190905$202606190918$            14511$$1$$$$$$¶KC¶#VE#2#CF#100#CA#0#CM#0#SICT#0#AM#81#AM2#0#RT#7#¶KCC¶I1ZFIzEjRVJHIzEjSElOIzAjRUNLIzI3MjcwNXwyNzI3MDV8MjcyNzE4fDI3MjcxOHwwfDB8MTY1fDI3MjcwM3wyfDB8MTA1MHwwfDB8LTIxNDc0ODM2NDgjR0FNIzE5MDYyNjA5MDUjClojVk4jMSNTVCMxNzgwOTQ1NzcwI1BJIzAjWkkjOTQwMzE5I1RBIzAjREEjMTkwNjI2IzFTIzgwMDI1NDkjMVQjOTA1I0xTIzgwMDEzNTIjTFQjMTA1MCNQVSM4MCNSVCMxI0NBI0RSRSNaRSMxNDUxMSNaQiMgICAgICAgICAgICAxNDUxMSNQQyMzI0ZSIzgwMDI1NDkjRlQjOTA1I1RPIzgwMDAxNDcjVFQjOTE4Iw==¶KRCC¶#VE#1#¶SC¶1_H4sIAAAAAAACA32PUWuDMBSF/8q4z7YkauwiCK6V0o2ySunGxthDWtPOEU0XY5mI/31XZVAYLA9JzsnJd5IWLtJACHTKGTggvy2KZD59TqbURcPILwhbKOtiCSFz+s0cQuKArm0irMS0S9yABJTDYO7yojcJJzjQOg6ECXXgs2yWypo1hG8t2Obcx9LtJsFQobNe3T8uUFyEqnvl+wS69+FNi4/TyMXiTJ7X+jBSVJ5h8C6i8SZaiWJfm9PNan+MXyKK7QEnPH6NmMeYO/O8+Cm6JfEaJ+Iyn8dYVdnxC8uhSBjzH3myEqZfkc45pwEf4T5jnJIrOKH+7C/8JG2y3UFoTS0HlWrVqLzExFGoavQedG1K2cx1XWbV9UEqqkrllf29Lw86FUYUGGq7rvsBlDb2IsYBAAA=",
+      "verbindungsAbschnitte": [
+        {
+          "risNotizen": [],
+          "himMeldungen": [
+            {
+              "ueberschrift": "Information.",
+              "text": "Hamburg Hbf: Aufgrund einer Aufzugserneuerung ( Gleis 13/14 ) steht dieser im Zeitraum vom 08.06. bis 30.11.2026 leider nicht zur Verfügung. Der Fernbahnsteig Gleis 13/14 ist in diesem Zeitraum nicht barrierefrei zugänglich. Alternativ stehen Mobilitätseingeschränkten Fahrgästen die Bahnhöfe Hamburg-Altona, Hamburg-Dammtor und Hamburg-Harburg für Ein-, Aus- und Umstiege mit dem Rollstuhl zur Verfügung.",
+              "prioritaet": "NIEDRIG",
+              "modDateTime": "2026-06-12T13:54:30"
+            }
+          ],
+          "priorisierteMeldungen": [
+            {
+              "prioritaet": "NIEDRIG",
+              "text": "Hamburg Hbf: Aufgrund einer Aufzugserneuerung ( Gleis 13/14 ) steht dieser im Zeitraum vom 08.06. bis 30.11.2026 leider nicht zur Verfügung. Der Fernbahnsteig Gleis 13/14 ist in diesem Zeitraum nicht barrierefrei zugänglich. Alternativ stehen Mobilitätseingeschränkten Fahrgästen die Bahnhöfe Hamburg-Altona, Hamburg-Dammtor und Hamburg-Harburg für Ein-, Aus- und Umstiege mit dem Rollstuhl zur Verfügung."
+            }
+          ],
+          "externeBahnhofsinfoIdOrigin": "2514",
+          "externeBahnhofsinfoIdDestination": "2519",
+          "abfahrtsOrt": "Hamburg Hbf",
+          "startHalt": {
+            "extId": "8002549",
+            "name": "Hamburg Hbf",
+            "abfahrt": {
+              "sollzeit": "2026-06-19T09:05:00"
+            }
+          },
+          "zielHalt": {
+            "extId": "8000147",
+            "name": "Hamburg-Harburg",
+            "ankunft": {
+              "sollzeit": "2026-06-19T09:18:00"
+            }
+          },
+          "destinationCancelled": false,
+          "originCancelled": false,
+          "abfahrtsOrtExtId": "8002549",
+          "abschnittsDauer": 780,
+          "abschnittsAnteil": 100,
+          "ankunftsOrt": "Hamburg-Harburg",
+          "ankunftsOrtExtId": "8000147",
+          "auslastungsmeldungen": [
+            {
+              "klasse": "KLASSE_1",
+              "stufe": 0
+            },
+            {
+              "klasse": "KLASSE_2",
+              "stufe": 0
+            }
+          ],
+          "abfahrt": {
+            "sollzeit": "2026-06-19T09:05:00"
+          },
+          "ankunft": {
+            "sollzeit": "2026-06-19T09:18:00"
+          },
+          "halte": [
+            {
+              "id": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:05:00"
+              },
+              "gleis": "12A-B",
+              "haltTyp": "PL",
+              "name": "Hamburg Hbf",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2514",
+              "extId": "8002549",
+              "himMeldungen": [],
+              "adminID": "RSUE",
+              "routeIdx": 0,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Harburg@X=9991699@Y=53455910@U=80@L=8000147@i=U×008001134@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:18:00"
+              },
+              "gleis": "6",
+              "haltTyp": "PL",
+              "name": "Hamburg-Harburg",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2519",
+              "extId": "8000147",
+              "himMeldungen": [],
+              "adminID": "RSUE",
+              "routeIdx": 1,
+              "priorisierteMeldungen": []
+            }
+          ],
+          "idx": 0,
+          "journeyId": "2|#VN#1#ST#1780945770#PI#0#ZI#940319#TA#0#DA#190626#1S#8002549#1T#905#LS#8001352#LT#1050#PU#80#RT#1#CA#DRE#ZE#14511#ZB#            14511#PC#3#FR#8002549#FT#905#TO#8001352#TT#1050#",
+          "samePlatform": false,
+          "verkehrsmittel": {
+            "produktGattung": "REGIONAL",
+            "kategorie": "DRE",
+            "name": "14511",
+            "nummer": "14511",
+            "richtung": "Cuxhaven",
+            "typ": "PUBLICTRANSPORT",
+            "zugattribute": [
+              {
+                "kategorie": "BEFÖRDERER",
+                "key": "BEF",
+                "value": "Regionalverkehre Start Deutschland GmbH (Start Unterelbe)"
+              },
+              {
+                "kategorie": "BARRIEREFREI",
+                "key": "RG",
+                "value": "Behindertengerechtes Fahrzeug"
+              },
+              {
+                "kategorie": "BARRIEREFREI",
+                "key": "RO",
+                "value": "space for wheelchairs"
+              },
+              {
+                "kategorie": "BARRIEREFREI",
+                "key": "EA",
+                "value": "Behindertengerechte Ausstattung"
+              },
+              {
+                "kategorie": "FAHRRADMITNAHME",
+                "key": "FB",
+                "value": "Number of bicycles conveyed limited"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "AO",
+                "value": "Konsum alkoholischer Getränke im Zug verboten"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "EH",
+                "value": "Vehicle-bound boarding aid available"
+              }
+            ],
+            "kurzText": "RSU",
+            "mittelText": "RE5",
+            "langText": "RE5 (14511)"
+          }
+        }
+      ],
+      "umstiegsAnzahl": 0,
+      "verbindungsDauerInSeconds": 780,
+      "isAlternativeVerbindung": false,
+      "auslastungsmeldungen": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0
+        }
+      ],
+      "auslastungstexte": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        }
+      ],
+      "himMeldungen": [],
+      "risNotizen": [],
+      "priorisierteMeldungen": [],
+      "reservierungsMeldungen": [],
+      "isAngebotseinholungNachgelagert": false,
+      "isAlterseingabeErforderlich": false,
+      "serviceDays": [
+        {
+          "lastDateInPeriod": "2026-07-10",
+          "regular": "not every day",
+          "irregular": "14. Jun until 10. Jul 2026",
+          "planningPeriodBegin": "2025-12-14",
+          "planningPeriodEnd": "2026-12-12",
+          "weekdays": [
+            "MO",
+            "DI",
+            "MI",
+            "DO",
+            "FR",
+            "SA",
+            "SO"
+          ]
+        }
+      ],
+      "ereignisZusammenfassung": {
+        "prioritaet": "NIEDRIG"
+      },
+      "hasTeilpreis": false,
+      "reiseAngebote": [],
+      "verbundCode": "47",
+      "hinRueckPauschalpreis": false,
+      "isReservierungAusserhalbVorverkaufszeitraum": false,
+      "gesamtAngebotsbeziehungList": []
+    },
+    {
+      "tripId": "8d5ba949_3",
+      "ctxRecon": "¶HKI¶T$A=1@O=Hamburg Hbf (S-Bahn)@X=10007924@Y=53552805@L=8098549@a=128@$A=1@O=Hamburg-Harburg(S)@X=9991456@Y=53456962@L=8098147@a=128@$202606190906$202606190921$               S3$$1$$$$$$¶KC¶#VE#2#CF#100#CA#0#CM#0#SICT#0#AM#81#AM2#0#RT#7#¶KCC¶I1ZFIzEjRVJHIzEjSElOIzAjRUNLIzI3MjcwNnwyNzI3MDZ8MjcyNzIxfDI3MjcyMXwwfDB8MTY1fDI3MjcwNnwzfDB8MTA1MHwwfDB8LTIxNDc0ODM2NDgjR0FNIzE5MDYyNjA5MDYjClojVk4jMSNTVCMxNzgwOTQ1NzcwI1BJIzAjWkkjMzE0MTg0I1RBIzEwI0RBIzE5MDYyNiMxUyM4MDA0ODE5IzFUIzgyOSNMUyM4MDAyNTU3I0xUIzkzNCNQVSM4MCNSVCMxI0NBI0RCUyNaRSNTMyNaQiMgICAgICAgICAgICAgICBTMyNQQyM0I0ZSIzgwOTg1NDkjRlQjOTA2I1RPIzgwOTgxNDcjVFQjOTIxIw==¶KRCC¶#VE#1#¶SC¶1_H4sIAAAAAAACA32PUWuDMBSF/8q4z7YkauwiCK6V0o2ySunGxthDWtPOEU0XY5mI/31XZVAYLA9JzsnJd5IWLtJACHTKGTggvy2KZD59TqbURcPILwhbKOtiCSFz+s0cQuKArm0irMS0S9yABJTDYO7yojcJJzjQOg6ECXXgs2yWypo1hG8t2Obcx9LtJsFQobNe3T8uUFyEqnvl+wS69+FNi4/TyMXiTJ7X+jBSVJ5h8C6i8SZaiWJfm9PNan+MXyKK7QEnPH6NmMeYO/O8+Cm6JfEaJ+Iyn8dYVdnxC8uhSBjzH3myEqZfkc45pwEf4T5jnJIrOKH+7C/8JG2y3UFoTS0HlWrVqLzExFGoavQedG1K2cx1XWbV9UEqqkrllf29Lw86FUYUGGq7rvsBlDb2IsYBAAA=",
+      "verbindungsAbschnitte": [
+        {
+          "risNotizen": [],
+          "himMeldungen": [],
+          "priorisierteMeldungen": [],
+          "externeBahnhofsinfoIdOrigin": "2514",
+          "externeBahnhofsinfoIdDestination": "2519",
+          "abfahrtsOrt": "Hamburg Hbf (S-Bahn)",
+          "startHalt": {
+            "extId": "8098549",
+            "name": "Hamburg Hbf (S-Bahn)",
+            "abfahrt": {
+              "sollzeit": "2026-06-19T09:06:00"
+            }
+          },
+          "zielHalt": {
+            "extId": "8098147",
+            "name": "Hamburg-Harburg(S)",
+            "ankunft": {
+              "sollzeit": "2026-06-19T09:21:00"
+            }
+          },
+          "destinationCancelled": false,
+          "originCancelled": false,
+          "abfahrtsOrtExtId": "8098549",
+          "abschnittsDauer": 900,
+          "abschnittsAnteil": 100,
+          "ankunftsOrt": "Hamburg-Harburg(S)",
+          "ankunftsOrtExtId": "8098147",
+          "auslastungsmeldungen": [
+            {
+              "klasse": "KLASSE_1",
+              "stufe": 0
+            },
+            {
+              "klasse": "KLASSE_2",
+              "stufe": 0
+            }
+          ],
+          "abfahrt": {
+            "sollzeit": "2026-06-19T09:06:00"
+          },
+          "ankunft": {
+            "sollzeit": "2026-06-19T09:21:00"
+          },
+          "halte": [
+            {
+              "id": "A=1@O=Hamburg Hbf (S-Bahn)@X=10007924@Y=53552805@U=80@L=8098549@i=U×008001020@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:06:00"
+              },
+              "gleis": "3",
+              "haltTyp": "PL",
+              "name": "Hamburg Hbf (S-Bahn)",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2514",
+              "extId": "8098549",
+              "himMeldungen": [],
+              "adminID": "0S",
+              "routeIdx": 15,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Hammerbrook@X=10023611@Y=53546611@U=80@L=8004266@i=U×008001040@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:09:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:08:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Hammerbrook",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2533",
+              "extId": "8004266",
+              "adminID": "0S",
+              "routeIdx": 16,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg Elbbrücken@X=10024797@Y=53534844@U=80@L=8002551@i=U×008030476@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:11:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:11:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg Elbbrücken",
+              "risNotizen": [],
+              "bahnhofsInfoId": "8314",
+              "extId": "8002551",
+              "adminID": "0S",
+              "routeIdx": 17,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Veddel@X=10013309@Y=53521702@U=80@L=8006062@i=U×008001041@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:14:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:13:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Veddel",
+              "risNotizen": [],
+              "bahnhofsInfoId": "6399",
+              "extId": "8006062",
+              "adminID": "0S",
+              "routeIdx": 18,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Wilhelmsburg@X=10007008@Y=53498932@U=80@L=8002561@i=U×008001042@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:17:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:16:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Wilhelmsburg",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2523",
+              "extId": "8002561",
+              "adminID": "0S",
+              "routeIdx": 19,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Harburg(S)@X=9991456@Y=53456962@U=80@L=8098147@i=U×008001043@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:21:00"
+              },
+              "gleis": "12",
+              "haltTyp": "PL",
+              "name": "Hamburg-Harburg(S)",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2519",
+              "extId": "8098147",
+              "himMeldungen": [],
+              "adminID": "0S",
+              "routeIdx": 20,
+              "priorisierteMeldungen": []
+            }
+          ],
+          "idx": 0,
+          "journeyId": "2|#VN#1#ST#1780945770#PI#0#ZI#314184#TA#10#DA#190626#1S#8004819#1T#829#LS#8002557#LT#934#PU#80#RT#1#CA#DBS#ZE#S3#ZB#               S3#PC#4#FR#8004819#FT#829#TO#8002557#TT#934#",
+          "samePlatform": false,
+          "verkehrsmittel": {
+            "produktGattung": "SBAHN",
+            "kategorie": "DBS",
+            "linienNummer": "S3",
+            "name": "S3",
+            "nummer": "S3",
+            "richtung": "Hamburg-Neugraben",
+            "typ": "PUBLICTRANSPORT",
+            "zugattribute": [
+              {
+                "kategorie": "BEFÖRDERER",
+                "key": "BEF",
+                "value": "S-Bahn Hamburg"
+              },
+              {
+                "kategorie": "FAHRRADMITNAHME",
+                "key": "FB",
+                "value": "Number of bicycles conveyed limited",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "FS",
+                "value": "conveying bicycles: mind the excluded times",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "K2",
+                "value": "2nd class only",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "SI",
+                "value": "Barrierefreier Zustieg an geeigneten Stationen möglich",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "HM",
+                "value": "Info https://www.hvv.de/de/barrierefrei",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              }
+            ],
+            "kurzText": "S",
+            "mittelText": "S3",
+            "langText": "S3"
+          }
+        }
+      ],
+      "umstiegsAnzahl": 0,
+      "verbindungsDauerInSeconds": 900,
+      "isAlternativeVerbindung": false,
+      "auslastungsmeldungen": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0
+        }
+      ],
+      "auslastungstexte": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        }
+      ],
+      "himMeldungen": [],
+      "risNotizen": [],
+      "priorisierteMeldungen": [],
+      "reservierungsMeldungen": [],
+      "isAngebotseinholungNachgelagert": false,
+      "isAlterseingabeErforderlich": false,
+      "serviceDays": [
+        {
+          "lastDateInPeriod": "2026-12-12",
+          "regular": "daily",
+          "irregular": "not 9. until 16. Jul 2026",
+          "planningPeriodBegin": "2025-12-14",
+          "planningPeriodEnd": "2026-12-12",
+          "weekdays": [
+            "MO",
+            "DI",
+            "MI",
+            "DO",
+            "FR",
+            "SA",
+            "SO"
+          ]
+        }
+      ],
+      "hasTeilpreis": false,
+      "reiseAngebote": [],
+      "verbundCode": "47",
+      "hinRueckPauschalpreis": false,
+      "isReservierungAusserhalbVorverkaufszeitraum": false,
+      "gesamtAngebotsbeziehungList": []
+    },
+    {
+      "tripId": "9c008e91_3",
+      "ctxRecon": "¶HKI¶T$A=1@O=Hamburg Hbf@X=10006909@Y=53552733@L=8002549@a=128@$A=1@O=Hamburg-Harburg@X=9991699@Y=53455910@L=8000147@a=128@$202606190916$202606190926$            82015$$1$$$$$$¶KC¶#VE#2#CF#100#CA#0#CM#0#SICT#0#AM#81#AM2#0#RT#7#¶KCC¶I1ZFIzEjRVJHIzEjSElOIzAjRUNLIzI3MjcxNnwyNzI3MTZ8MjcyNzI2fDI3MjcyNnwwfDB8MTY1fDI3MjcwN3w0fDB8MTA1MHwwfDB8LTIxNDc0ODM2NDgjR0FNIzE5MDYyNjA5MTYjClojVk4jMSNTVCMxNzgwOTQ1NzcwI1BJIzAjWkkjNDU4Njg1I1RBIzAjREEjMTkwNjI2IzFTIzgwMDI1NDkjMVQjOTE2I0xTIzgwMDAwNTAjTFQjMTAzNiNQVSM4MCNSVCMxI0NBI0RSRSNaRSM4MjAxNSNaQiMgICAgICAgICAgICA4MjAxNSNQQyMzI0ZSIzgwMDI1NDkjRlQjOTE2I1RPIzgwMDAxNDcjVFQjOTI2Iw==¶KRCC¶#VE#1#¶SC¶1_H4sIAAAAAAACA32PUWuDMBSF/8q4z7YkauwiCK6V0o2ySunGxthDWtPOEU0XY5mI/31XZVAYLA9JzsnJd5IWLtJACHTKGTggvy2KZD59TqbURcPILwhbKOtiCSFz+s0cQuKArm0irMS0S9yABJTDYO7yojcJJzjQOg6ECXXgs2yWypo1hG8t2Obcx9LtJsFQobNe3T8uUFyEqnvl+wS69+FNi4/TyMXiTJ7X+jBSVJ5h8C6i8SZaiWJfm9PNan+MXyKK7QEnPH6NmMeYO/O8+Cm6JfEaJ+Iyn8dYVdnxC8uhSBjzH3myEqZfkc45pwEf4T5jnJIrOKH+7C/8JG2y3UFoTS0HlWrVqLzExFGoavQedG1K2cx1XWbV9UEqqkrllf29Lw86FUYUGGq7rvsBlDb2IsYBAAA=",
+      "verbindungsAbschnitte": [
+        {
+          "risNotizen": [],
+          "himMeldungen": [],
+          "priorisierteMeldungen": [],
+          "externeBahnhofsinfoIdOrigin": "2514",
+          "externeBahnhofsinfoIdDestination": "2519",
+          "abfahrtsOrt": "Hamburg Hbf",
+          "startHalt": {
+            "extId": "8002549",
+            "name": "Hamburg Hbf",
+            "abfahrt": {
+              "sollzeit": "2026-06-19T09:16:00"
+            }
+          },
+          "zielHalt": {
+            "extId": "8000147",
+            "name": "Hamburg-Harburg",
+            "ankunft": {
+              "sollzeit": "2026-06-19T09:26:00"
+            }
+          },
+          "destinationCancelled": false,
+          "originCancelled": false,
+          "abfahrtsOrtExtId": "8002549",
+          "abschnittsDauer": 600,
+          "abschnittsAnteil": 100,
+          "ankunftsOrt": "Hamburg-Harburg",
+          "ankunftsOrtExtId": "8000147",
+          "auslastungsmeldungen": [
+            {
+              "klasse": "KLASSE_1",
+              "stufe": 0
+            },
+            {
+              "klasse": "KLASSE_2",
+              "stufe": 0
+            }
+          ],
+          "abfahrt": {
+            "sollzeit": "2026-06-19T09:16:00"
+          },
+          "ankunft": {
+            "sollzeit": "2026-06-19T09:26:00"
+          },
+          "halte": [
+            {
+              "id": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@i=U×008001071@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:16:00"
+              },
+              "gleis": "13A-C",
+              "haltTyp": "PL",
+              "name": "Hamburg Hbf",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2514",
+              "extId": "8002549",
+              "himMeldungen": [],
+              "adminID": "R1",
+              "routeIdx": 0,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Harburg@X=9991699@Y=53455910@U=80@L=8000147@i=U×008001134@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:26:00"
+              },
+              "gleis": "3",
+              "haltTyp": "PL",
+              "name": "Hamburg-Harburg",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2519",
+              "extId": "8000147",
+              "himMeldungen": [],
+              "adminID": "R1",
+              "routeIdx": 1,
+              "priorisierteMeldungen": []
+            }
+          ],
+          "idx": 0,
+          "journeyId": "2|#VN#1#ST#1780945770#PI#0#ZI#458685#TA#0#DA#190626#1S#8002549#1T#916#LS#8000050#LT#1036#PU#80#RT#1#CA#DRE#ZE#82015#ZB#            82015#PC#3#FR#8002549#FT#916#TO#8000050#TT#1036#",
+          "samePlatform": false,
+          "verkehrsmittel": {
+            "produktGattung": "REGIONAL",
+            "kategorie": "DRE",
+            "name": "82015",
+            "nummer": "82015",
+            "richtung": "Bremen Hbf",
+            "typ": "PUBLICTRANSPORT",
+            "zugattribute": [
+              {
+                "kategorie": "BEFÖRDERER",
+                "key": "BEF",
+                "value": "metronom"
+              },
+              {
+                "kategorie": "BARRIEREFREI",
+                "key": "RO",
+                "value": "space for wheelchairs"
+              },
+              {
+                "kategorie": "FAHRRADMITNAHME",
+                "key": "FB",
+                "value": "Number of bicycles conveyed limited"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "AO",
+                "value": "Konsum alkoholischer Getränke im Zug verboten"
+              }
+            ],
+            "kurzText": "ME",
+            "mittelText": "RE4",
+            "langText": "RE4 (82015)"
+          }
+        }
+      ],
+      "umstiegsAnzahl": 0,
+      "verbindungsDauerInSeconds": 600,
+      "isAlternativeVerbindung": false,
+      "auslastungsmeldungen": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0
+        }
+      ],
+      "auslastungstexte": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        }
+      ],
+      "himMeldungen": [],
+      "risNotizen": [],
+      "priorisierteMeldungen": [],
+      "reservierungsMeldungen": [],
+      "isAngebotseinholungNachgelagert": false,
+      "isAlterseingabeErforderlich": false,
+      "serviceDays": [
+        {
+          "lastDateInPeriod": "2026-07-10",
+          "regular": "not every day",
+          "irregular": "12. Jun until 10. Jul 2026",
+          "planningPeriodBegin": "2025-12-14",
+          "planningPeriodEnd": "2026-12-12",
+          "weekdays": [
+            "MO",
+            "DI",
+            "MI",
+            "DO",
+            "FR",
+            "SA",
+            "SO"
+          ]
+        }
+      ],
+      "hasTeilpreis": false,
+      "reiseAngebote": [],
+      "verbundCode": "47",
+      "hinRueckPauschalpreis": false,
+      "isReservierungAusserhalbVorverkaufszeitraum": false,
+      "gesamtAngebotsbeziehungList": []
+    },
+    {
+      "tripId": "47c6c4ac_3",
+      "ctxRecon": "¶HKI¶T$A=1@O=Hamburg Hbf (S-Bahn)@X=10007924@Y=53552805@L=8098549@a=128@$A=1@O=Hamburg-Harburg(S)@X=9991456@Y=53456962@L=8098147@a=128@$202606190922$202606190937$               S5$$1$$$$$$¶KC¶#VE#2#CF#100#CA#0#CM#0#SICT#0#AM#81#AM2#0#RT#7#¶KCC¶I1ZFIzEjRVJHIzEjSElOIzAjRUNLIzI3MjcyMnwyNzI3MjJ8MjcyNzM3fDI3MjczN3wwfDB8MTY1fDI3MjcxN3w1fDB8MTA1MHwwfDB8LTIxNDc0ODM2NDgjR0FNIzE5MDYyNjA5MjIjClojVk4jMSNTVCMxNzgwOTQ1NzcwI1BJIzAjWkkjMTgwNDE5NyNUQSMzI0RBIzE5MDYyNiMxUyM4MDAxNzM5IzFUIzkwMyNMUyM4MDAwMDg5I0xUIzEwMjUjUFUjODAjUlQjMSNDQSNEQlMjWkUjUzUjWkIjICAgICAgICAgICAgICAgUzUjUEMjNCNGUiM4MDk4NTQ5I0ZUIzkyMiNUTyM4MDk4MTQ3I1RUIzkzNyM=¶KRCC¶#VE#1#¶SC¶1_H4sIAAAAAAACA32PUWuDMBSF/8q4z7YkauwiCK6V0o2ySunGxthDWtPOEU0XY5mI/31XZVAYLA9JzsnJd5IWLtJACHTKGTggvy2KZD59TqbURcPILwhbKOtiCSFz+s0cQuKArm0irMS0S9yABJTDYO7yojcJJzjQOg6ECXXgs2yWypo1hG8t2Obcx9LtJsFQobNe3T8uUFyEqnvl+wS69+FNi4/TyMXiTJ7X+jBSVJ5h8C6i8SZaiWJfm9PNan+MXyKK7QEnPH6NmMeYO/O8+Cm6JfEaJ+Iyn8dYVdnxC8uhSBjzH3myEqZfkc45pwEf4T5jnJIrOKH+7C/8JG2y3UFoTS0HlWrVqLzExFGoavQedG1K2cx1XWbV9UEqqkrllf29Lw86FUYUGGq7rvsBlDb2IsYBAAA=",
+      "verbindungsAbschnitte": [
+        {
+          "risNotizen": [],
+          "himMeldungen": [],
+          "priorisierteMeldungen": [],
+          "externeBahnhofsinfoIdOrigin": "2514",
+          "externeBahnhofsinfoIdDestination": "2519",
+          "abfahrtsOrt": "Hamburg Hbf (S-Bahn)",
+          "startHalt": {
+            "extId": "8098549",
+            "name": "Hamburg Hbf (S-Bahn)",
+            "abfahrt": {
+              "sollzeit": "2026-06-19T09:22:00"
+            }
+          },
+          "zielHalt": {
+            "extId": "8098147",
+            "name": "Hamburg-Harburg(S)",
+            "ankunft": {
+              "sollzeit": "2026-06-19T09:37:00"
+            }
+          },
+          "destinationCancelled": false,
+          "originCancelled": false,
+          "abfahrtsOrtExtId": "8098549",
+          "abschnittsDauer": 900,
+          "abschnittsAnteil": 100,
+          "ankunftsOrt": "Hamburg-Harburg(S)",
+          "ankunftsOrtExtId": "8098147",
+          "auslastungsmeldungen": [
+            {
+              "klasse": "KLASSE_1",
+              "stufe": 0
+            },
+            {
+              "klasse": "KLASSE_2",
+              "stufe": 0
+            }
+          ],
+          "abfahrt": {
+            "sollzeit": "2026-06-19T09:22:00"
+          },
+          "ankunft": {
+            "sollzeit": "2026-06-19T09:37:00"
+          },
+          "halte": [
+            {
+              "id": "A=1@O=Hamburg Hbf (S-Bahn)@X=10007924@Y=53552805@U=80@L=8098549@i=U×008001020@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:22:00"
+              },
+              "gleis": "4",
+              "haltTyp": "PL",
+              "name": "Hamburg Hbf (S-Bahn)",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2514",
+              "extId": "8098549",
+              "himMeldungen": [],
+              "adminID": "0S",
+              "routeIdx": 8,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Hammerbrook@X=10023611@Y=53546611@U=80@L=8004266@i=U×008001040@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:25:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:24:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Hammerbrook",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2533",
+              "extId": "8004266",
+              "adminID": "0S",
+              "routeIdx": 9,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg Elbbrücken@X=10024797@Y=53534844@U=80@L=8002551@i=U×008030476@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:27:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:27:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg Elbbrücken",
+              "risNotizen": [],
+              "bahnhofsInfoId": "8314",
+              "extId": "8002551",
+              "adminID": "0S",
+              "routeIdx": 10,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Veddel@X=10013309@Y=53521702@U=80@L=8006062@i=U×008001041@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:30:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:29:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Veddel",
+              "risNotizen": [],
+              "bahnhofsInfoId": "6399",
+              "extId": "8006062",
+              "adminID": "0S",
+              "routeIdx": 11,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Wilhelmsburg@X=10007008@Y=53498932@U=80@L=8002561@i=U×008001042@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "abfahrt": {
+                "sollzeit": "2026-06-19T09:33:00"
+              },
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:32:00"
+              },
+              "gleis": "2",
+              "haltTyp": "PL",
+              "name": "Hamburg-Wilhelmsburg",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2523",
+              "extId": "8002561",
+              "adminID": "0S",
+              "routeIdx": 12,
+              "priorisierteMeldungen": []
+            },
+            {
+              "id": "A=1@O=Hamburg-Harburg(S)@X=9991456@Y=53456962@U=80@L=8098147@i=U×008001043@",
+              "auslastungsmeldungen": [
+                {
+                  "klasse": "KLASSE_1",
+                  "stufe": 0
+                },
+                {
+                  "klasse": "KLASSE_2",
+                  "stufe": 0
+                }
+              ],
+              "ankunft": {
+                "sollzeit": "2026-06-19T09:37:00"
+              },
+              "gleis": "12",
+              "haltTyp": "PL",
+              "name": "Hamburg-Harburg(S)",
+              "risNotizen": [],
+              "bahnhofsInfoId": "2519",
+              "extId": "8098147",
+              "himMeldungen": [],
+              "adminID": "0S",
+              "routeIdx": 13,
+              "priorisierteMeldungen": []
+            }
+          ],
+          "idx": 0,
+          "journeyId": "2|#VN#1#ST#1780945770#PI#0#ZI#1804197#TA#3#DA#190626#1S#8001739#1T#903#LS#8000089#LT#1025#PU#80#RT#1#CA#DBS#ZE#S5#ZB#               S5#PC#4#FR#8001739#FT#903#TO#8000089#TT#1025#",
+          "samePlatform": false,
+          "verkehrsmittel": {
+            "produktGattung": "SBAHN",
+            "kategorie": "DBS",
+            "linienNummer": "S5",
+            "name": "S5",
+            "nummer": "S5",
+            "richtung": "Stade",
+            "typ": "PUBLICTRANSPORT",
+            "zugattribute": [
+              {
+                "kategorie": "BEFÖRDERER",
+                "key": "BEF",
+                "value": "S-Bahn Hamburg"
+              },
+              {
+                "kategorie": "FAHRRADMITNAHME",
+                "key": "FB",
+                "value": "Number of bicycles conveyed limited",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "FS",
+                "value": "conveying bicycles: mind the excluded times",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "K2",
+                "value": "2nd class only",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "SI",
+                "value": "Barrierefreier Zustieg an geeigneten Stationen möglich",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              },
+              {
+                "kategorie": "INFORMATION",
+                "key": "HM",
+                "value": "Info https://www.hvv.de/de/barrierefrei",
+                "teilstreckenHinweis": "(Hamburg Hbf (S-Bahn) - Hamburg-Harburg(S))"
+              }
+            ],
+            "kurzText": "S",
+            "mittelText": "S5",
+            "langText": "S5"
+          }
+        }
+      ],
+      "umstiegsAnzahl": 0,
+      "verbindungsDauerInSeconds": 900,
+      "isAlternativeVerbindung": false,
+      "auslastungsmeldungen": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0
+        }
+      ],
+      "auslastungstexte": [
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 0,
+          "kurzText": "No occupancy information available"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 1,
+          "kurzText": "Low demand expected"
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 2,
+          "anzeigeText": "We expect medium demand for your journey.",
+          "kurzText": "Medium demand expected",
+          "langText": "We expect medium demand for your journey. Reserve the seat of your choice now."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 3,
+          "anzeigeText": "We expect high demand for your journey.",
+          "kurzText": "High demand expected",
+          "langText": "We expect high demand for your journey. We recommend reserving a seat."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 1st class. Passengers who have not yet purchased a ticket should choose a different connection or book a 2nd."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 4,
+          "anzeigeText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect an exceptionally high occupancy in the course of your trip in 2nd class. Passengers who have not yet purchased a ticket should choose a different connection or book a 1st."
+        },
+        {
+          "klasse": "KLASSE_1",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        },
+        {
+          "klasse": "KLASSE_2",
+          "stufe": 99,
+          "anzeigeText": "We expect exceptionally high demand for your journey.",
+          "kurzText": "Exceptionally high demand expected",
+          "langText": "We expect exceptionally high demand for your journey. Passengers who have not yet purchased a ticket should choose another connection."
+        }
+      ],
+      "himMeldungen": [],
+      "risNotizen": [],
+      "priorisierteMeldungen": [],
+      "reservierungsMeldungen": [],
+      "isAngebotseinholungNachgelagert": false,
+      "isAlterseingabeErforderlich": false,
+      "serviceDays": [
+        {
+          "lastDateInPeriod": "2026-12-12",
+          "regular": "daily",
+          "irregular": "not 9. until 16. Jul 2026",
+          "planningPeriodBegin": "2025-12-14",
+          "planningPeriodEnd": "2026-12-12",
+          "weekdays": [
+            "MO",
+            "DI",
+            "MI",
+            "DO",
+            "FR",
+            "SA",
+            "SO"
+          ]
+        }
+      ],
+      "hasTeilpreis": false,
+      "reiseAngebote": [],
+      "verbundCode": "47",
+      "hinRueckPauschalpreis": false,
+      "isReservierungAusserhalbVorverkaufszeitraum": false,
+      "gesamtAngebotsbeziehungList": []
+    }
+  ],
+  "verbindungReference": {
+    "earlier": "3|OB|MTµ14µ272702µ272702µ272717µ272717µ0µ0µ165µ272697µ1µ0µ1050µ0µ0µ-2147483648µ1µ2|PDHµ82b7cdc5da015a47124c435af743a2d1|RDµ19062026|RTµ90000|USµ0|RSµINIT",
+    "later": "3|OF|MTµ14µ272722µ272722µ272737µ272737µ0µ0µ165µ272717µ5µ0µ1050µ0µ0µ-2147483648µ1µ2|PDHµ82b7cdc5da015a47124c435af743a2d1|RDµ19062026|RTµ90000|USµ0|RSµINIT"
+  }
+}

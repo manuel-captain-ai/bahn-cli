@@ -1,0 +1,152 @@
+[
+  {
+    "extId": "8096009",
+    "id": "A=1@O=HAMBURG@X=9997434@Y=53557110@U=80@L=8096009@p=1780945770@i=U×008002710@",
+    "lat": 53.55711,
+    "lon": 9.997434,
+    "name": "HAMBURG",
+    "products": [
+      "ICE",
+      "EC_IC",
+      "IR",
+      "REGIONAL",
+      "SBAHN",
+      "BUS",
+      "SCHIFF",
+      "UBAHN"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8002549",
+    "id": "A=1@O=Hamburg Hbf@X=10006909@Y=53552733@U=80@L=8002549@p=1780945770@i=U×008001071@",
+    "lat": 53.55353,
+    "lon": 10.00636,
+    "name": "Hamburg Hbf",
+    "products": [
+      "ICE",
+      "EC_IC",
+      "IR",
+      "REGIONAL",
+      "SBAHN",
+      "BUS",
+      "UBAHN"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8000147",
+    "id": "A=1@O=Hamburg-Harburg@X=9991699@Y=53455910@U=80@L=8000147@p=1780945770@i=U×008001134@",
+    "lat": 53.4562,
+    "lon": 9.991591,
+    "name": "Hamburg-Harburg",
+    "products": [
+      "ICE",
+      "EC_IC",
+      "IR",
+      "REGIONAL",
+      "SBAHN",
+      "BUS"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8002553",
+    "id": "A=1@O=Hamburg-Altona@X=9935175@Y=53552697@U=80@L=8002553@p=1780945770@i=U×008001093@",
+    "lat": 53.55257,
+    "lon": 9.93486,
+    "name": "Hamburg-Altona",
+    "products": [
+      "ICE",
+      "EC_IC",
+      "IR",
+      "REGIONAL",
+      "SBAHN",
+      "BUS"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8002548",
+    "id": "A=1@O=Hamburg Dammtor@X=9989569@Y=53560751@U=80@L=8002548@p=1780945770@i=U×008001089@",
+    "lat": 53.56084,
+    "lon": 9.989533,
+    "name": "Hamburg Dammtor",
+    "products": [
+      "ICE",
+      "EC_IC",
+      "REGIONAL",
+      "SBAHN",
+      "BUS",
+      "UBAHN"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8002554",
+    "id": "A=1@O=Hamburg-Bergedorf@X=10206173@Y=53489835@U=80@L=8002554@p=1780945770@i=U×008001063@",
+    "lat": 53.489834,
+    "lon": 10.206307,
+    "name": "Hamburg-Bergedorf",
+    "products": [
+      "ICE",
+      "REGIONAL",
+      "SBAHN",
+      "BUS"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8002555",
+    "id": "A=1@O=Hamburg-Eidelstedt@X=9907101@Y=53595890@U=80@L=8002555@p=1780945770@i=U×008001279@",
+    "lat": 53.59589,
+    "lon": 9.907101,
+    "name": "Hamburg-Eidelstedt",
+    "products": [
+      "REGIONAL",
+      "SBAHN",
+      "BUS"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8002628",
+    "id": "A=1@O=Hamburg Hasselbrook@X=10056125@Y=53564715@U=80@L=8002628@p=1780945770@i=U×008001127@",
+    "lat": 53.56485,
+    "lon": 10.056511,
+    "name": "Hamburg Hasselbrook",
+    "products": [
+      "REGIONAL",
+      "SBAHN",
+      "BUS"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8070146",
+    "id": "A=1@O=Hamburg-Sternschanze@X=9967203@Y=53563718@U=80@L=8070146@p=1780945770@i=U×008001090@",
+    "lat": 53.563763,
+    "lon": 9.965846,
+    "name": "Hamburg-Sternschanze",
+    "products": [
+      "REGIONAL",
+      "SBAHN",
+      "BUS",
+      "UBAHN"
+    ],
+    "type": "ST"
+  },
+  {
+    "extId": "8002557",
+    "id": "A=1@O=Hamburg-Neugraben@X=9852052@Y=53474140@U=80@L=8002557@p=1780945770@i=U×008001186@",
+    "lat": 53.47426,
+    "lon": 9.85198,
+    "name": "Hamburg-Neugraben",
+    "products": [
+      "REGIONAL",
+      "SBAHN",
+      "BUS"
+    ],
+    "type": "ST"
+  }
+]

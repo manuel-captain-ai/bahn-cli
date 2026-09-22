@@ -1,0 +1,50 @@
+{
+ "stand": "2026-07-29",
+ "waehrung": "EUR",
+ "quellen": [
+  "https://www.interrail.com/en/interrail-passes/global-pass (Rabatte Youth/Senior)",
+  "https://www.railey.app/guides/how-much-does-interrail-cost (Preistabelle 2026)",
+  "https://www.seat61.com/how-to-use-an-interrail-pass.htm (Reservierungsentgelte)"
+ ],
+ "hinweis": "Global Pass. Preise aendern sich jaehrlich, Reservierungsentgelte laufend. Vor der Buchung gegen interrail.com pruefen.",
+ "global_pass": [
+  {"key": "4d/1m",  "reisetage": 4,  "gueltig_tage": 30,  "label": "4 Reisetage in 1 Monat",   "preis": 283, "preis_1klasse": 367},
+  {"key": "5d/1m",  "reisetage": 5,  "gueltig_tage": 30,  "label": "5 Reisetage in 1 Monat",   "preis": 318, "preis_1klasse": 413},
+  {"key": "7d/1m",  "reisetage": 7,  "gueltig_tage": 30,  "label": "7 Reisetage in 1 Monat",   "preis": 381, "preis_1klasse": 495},
+  {"key": "10d/2m", "reisetage": 10, "gueltig_tage": 60,  "label": "10 Reisetage in 2 Monaten", "preis": 447, "preis_1klasse": 581},
+  {"key": "15d/2m", "reisetage": 15, "gueltig_tage": 60,  "label": "15 Reisetage in 2 Monaten", "preis": 553, "preis_1klasse": 718},
+  {"key": "15d",    "reisetage": 15, "gueltig_tage": 15,  "label": "15 Tage durchgehend",       "preis": 476, "preis_1klasse": 618},
+  {"key": "22d",    "reisetage": 22, "gueltig_tage": 22,  "label": "22 Tage durchgehend",       "preis": 586, "preis_1klasse": 761},
+  {"key": "1m",     "reisetage": 31, "gueltig_tage": 31,  "label": "1 Monat durchgehend",       "preis": 696, "preis_1klasse": 904},
+  {"key": "2m",     "reisetage": 62, "gueltig_tage": 62,  "label": "2 Monate durchgehend",      "preis": 826, "preis_1klasse": 1073},
+  {"key": "3m",     "reisetage": 93, "gueltig_tage": 93,  "label": "3 Monate durchgehend",      "preis": 956, "preis_1klasse": 1242}
+ ],
+ "rabatte": {
+  "youth": {"bis_alter": 27, "faktor": 0.75, "label": "Youth (unter 28), 25 % Rabatt"},
+  "senior": {"ab_alter": 60, "faktor": 0.90, "label": "Senior (60+), 10 % Rabatt"}
+ },
+ "reservierung": {
+  "standard": 0,
+  "hinweis": "Nahverkehr und die meisten Zuege in DE/AT/CH/NL/BE/DK/LU sind reservierungsfrei. Hochgeschwindigkeits- und Nachtzuege kosten extra.",
+  "pro_produkt": {
+   "TGV":   {"entgelt": 20, "label": "TGV (10 EUR Kontingent, danach 20 EUR)"},
+   "OGV":   {"entgelt": 20, "label": "TGV/OUIGO"},
+   "TER":   {"entgelt": 0,  "label": "TER (Nahverkehr, reservierungsfrei)"},
+   "EUR":   {"entgelt": 35, "label": "Eurostar (2. Klasse)"},
+   "THA":   {"entgelt": 25, "label": "Eurostar/Thalys Paris-Bruessel-Amsterdam"},
+   "AVE":   {"entgelt": 10, "label": "AVE/Renfe (Spanien, Kontingent knapp)"},
+   "AVL":   {"entgelt": 10, "label": "Avlo/Renfe"},
+   "IRY":   {"entgelt": 10, "label": "Iryo (Spanien)"},
+   "FR":    {"entgelt": 13, "label": "Frecciarossa (Italien)"},
+   "FA":    {"entgelt": 13, "label": "Frecciarossa (Italien)"},
+   "ITA":   {"entgelt": 13, "label": "Italo"},
+   "RJX":   {"entgelt": 0,  "label": "Railjet (AT, reservierungsfrei)"},
+   "RJ":    {"entgelt": 0,  "label": "Railjet (AT, reservierungsfrei)"},
+   "ICE":   {"entgelt": 0,  "label": "ICE (DE, reservierungsfrei)"},
+   "IC":    {"entgelt": 0,  "label": "IC (reservierungsfrei)"},
+   "EC":    {"entgelt": 0,  "label": "EuroCity (meist reservierungsfrei)"},
+   "NJ":    {"entgelt": 34, "label": "Nightjet Liegewagen 6er (Sitz 14, 4er 44, Schlafwagen ab 54)"},
+   "EN":    {"entgelt": 34, "label": "EuroNight Liegewagen"}
+  }
+ }
+}

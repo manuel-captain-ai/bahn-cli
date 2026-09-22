@@ -1,0 +1,54 @@
+{
+  "verbindungen": [
+    {
+      "tripId": "via-trip-1",
+      "ctxRecon": "ctx-token-abc123",
+      "umstiegsAnzahl": 2,
+      "verbindungsDauerInSeconds": 288000,
+      "isAngebotseinholungNachgelagert": true,
+      "verbindungsAbschnitte": [
+        {
+          "abfahrt": {"sollzeit": "2026-07-03T09:02:00"},
+          "ankunft": {"sollzeit": "2026-07-03T14:51:00"},
+          "abfahrtsOrt": "Rendsburg",
+          "ankunftsOrt": "Neanderthal",
+          "abschnittsDauer": 21540,
+          "verkehrsmittel": {"typ": "PUBLICTRANSPORT", "name": "RE 7"}
+        },
+        {
+          "abfahrt": {"sollzeit": "2026-07-06T15:10:00"},
+          "ankunft": {"sollzeit": "2026-07-06T18:30:00"},
+          "abfahrtsOrt": "Neanderthal",
+          "ankunftsOrt": "Brussel-Noord",
+          "abschnittsDauer": 12000,
+          "verkehrsmittel": {"typ": "PUBLICTRANSPORT", "name": "ICE 9"}
+        }
+      ]
+    },
+    {
+      "tripId": "via-trip-2",
+      "ctxRecon": "ctx-token-def456",
+      "umstiegsAnzahl": 2,
+      "verbindungsDauerInSeconds": 294000,
+      "isAngebotseinholungNachgelagert": true,
+      "verbindungsAbschnitte": [
+        {
+          "abfahrt": {"sollzeit": "2026-07-03T10:15:00"},
+          "ankunft": {"sollzeit": "2026-07-03T16:00:00"},
+          "abfahrtsOrt": "Rendsburg",
+          "ankunftsOrt": "Neanderthal",
+          "abschnittsDauer": 20700,
+          "verkehrsmittel": {"typ": "PUBLICTRANSPORT", "name": "RE 9"}
+        },
+        {
+          "abfahrt": {"sollzeit": "2026-07-06T15:10:00"},
+          "ankunft": {"sollzeit": "2026-07-06T18:30:00"},
+          "abfahrtsOrt": "Neanderthal",
+          "ankunftsOrt": "Brussel-Noord",
+          "abschnittsDauer": 12000,
+          "verkehrsmittel": {"typ": "PUBLICTRANSPORT", "name": "ICE 9"}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "verbindungen": [
+    {
+      "tripId": "via-trip-1",
+      "angebotsPreis": {"betrag": 60.0, "waehrung": "EUR"},
+      "hasTeilpreis": true,
+      "reiseAngebote": [
+        {
+          "hinfahrt": {
+            "fahrtAngebote": [
+              {"preis": {"betrag": 25.0, "waehrung": "EUR"}},
+              {"preis": {"betrag": 35.0, "waehrung": "EUR"}}
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

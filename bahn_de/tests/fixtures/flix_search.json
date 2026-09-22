@@ -1,0 +1,350 @@
+{
+ "trips": [
+  {
+   "departure_city_id": "40d8f682-8646-11e6-9066-549f350fcb0c",
+   "arrival_city_id": "40d901a5-8646-11e6-9066-549f350fcb0c",
+   "date": "2026-08-20T00:00:00+02:00",
+   "means_of_transport": [
+    "bus",
+    "train"
+   ],
+   "departure": {
+    "earliest_date": "2026-08-20T07:15:00+02:00",
+    "latest_date": "2026-08-20T23:20:00+02:00",
+    "stations": [
+     "dcbb994f-9603-11e6-9066-549f350fcb0c",
+     "dcbaaee6-9603-11e6-9066-549f350fcb0c",
+     "dcbc32c3-9603-11e6-9066-549f350fcb0c",
+     "dcbfd6bc-9603-11e6-9066-549f350fcb0c",
+     "e6f7f0f4-4bb5-45a0-bcc2-d5e7279686dd",
+     "394a5408-d778-4959-a63e-973253443ed2",
+     "895f31c8-7f88-4d8f-a070-4b4a6320160a"
+    ]
+   },
+   "arrival": {
+    "earliest_date": "2026-08-20T15:35:00+02:00",
+    "latest_date": "2026-08-21T07:25:00+02:00",
+    "stations": [
+     "dcc0b7f3-9603-11e6-9066-549f350fcb0c",
+     "dcbabbfa-9603-11e6-9066-549f350fcb0c"
+    ]
+   },
+   "results": {
+    "ic:dcbb994f-9603-11e6-9066-549f350fcb0c:dcc0b7f3-9603-11e6-9066-549f350fcb0c/5a344d75-0dbf-469c-800a-37029e0b4960:dcbc6452-9603-11e6-9066-549f350fcb0c:dcbc6452-9603-11e6-9066-549f350fcb0c:c465d283-141c-46b2-80c5-7ca9d6a685de": {
+     "uid": "ic:dcbb994f-9603-11e6-9066-549f350fcb0c:dcc0b7f3-9603-11e6-9066-549f350fcb0c/5a344d75-0dbf-469c-800a-37029e0b4960:dcbc6452-9603-11e6-9066-549f350fcb0c:dcbc6452-9603-11e6-9066-549f350fcb0c:c465d283-141c-46b2-80c5-7ca9d6a685de",
+     "status": "available",
+     "transfer_type": "Umstieg",
+     "transfer_type_key": "direct#fast",
+     "provider": "flixbus",
+     "departure": {
+      "date": "2026-08-20T07:15:00+02:00",
+      "city_id": "40d8f682-8646-11e6-9066-549f350fcb0c",
+      "station_id": "dcbb994f-9603-11e6-9066-549f350fcb0c"
+     },
+     "arrival": {
+      "date": "2026-08-20T17:35:00+02:00",
+      "city_id": "40d901a5-8646-11e6-9066-549f350fcb0c",
+      "station_id": "dcc0b7f3-9603-11e6-9066-549f350fcb0c"
+     },
+     "duration": {
+      "hours": 10,
+      "minutes": 20
+     },
+     "price": {
+      "total": 40.48,
+      "original": 40.48,
+      "average": 40.48,
+      "total_with_platform_fee": 41.47,
+      "average_with_platform_fee": 41.47
+     },
+     "remaining": {
+      "seats_left_at_price": null,
+      "seats": null,
+      "bike_slots": 0,
+      "capacity": "high"
+     },
+     "available": {
+      "seats": 41,
+      "bike_slots": 0
+     },
+     "legs": [
+      {
+       "ride_id": "5a344d75-0dbf-469c-800a-37029e0b4960",
+       "departure": {
+        "date": "2026-08-20T07:15:00+02:00",
+        "city_id": "40d8f682-8646-11e6-9066-549f350fcb0c",
+        "station_id": "dcbb994f-9603-11e6-9066-549f350fcb0c"
+       },
+       "arrival": {
+        "date": "2026-08-20T11:40:00+02:00",
+        "city_id": "40de1ad1-8646-11e6-9066-549f350fcb0c",
+        "station_id": "dcbc6452-9603-11e6-9066-549f350fcb0c"
+       },
+       "means_of_transport": "bus",
+       "amenities": [
+        "WIFI",
+        "POWER_SOCKETS"
+       ],
+       "is_marketplace": false,
+       "operator_id": "mfb",
+       "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3",
+       "sub_brand_id": null,
+       "vehicle_details": [],
+       "layout_configuration": [
+        {
+         "column_layout": "TWO_TWO",
+         "deck": 0
+        },
+        {
+         "column_layout": "TWO_TWO",
+         "deck": 1
+        }
+       ],
+       "cheapest_seat": "SEATER",
+       "seat_types": [
+        {
+         "seat_type_key": "SEATER",
+         "seat_type": "SEATER"
+        }
+       ]
+      },
+      {
+       "ride_id": "c465d283-141c-46b2-80c5-7ca9d6a685de",
+       "departure": {
+        "date": "2026-08-20T12:50:00+02:00",
+        "city_id": "40de1ad1-8646-11e6-9066-549f350fcb0c",
+        "station_id": "dcbc6452-9603-11e6-9066-549f350fcb0c"
+       },
+       "arrival": {
+        "date": "2026-08-20T17:35:00+02:00",
+        "city_id": "40d901a5-8646-11e6-9066-549f350fcb0c",
+        "station_id": "dcc0b7f3-9603-11e6-9066-549f350fcb0c"
+       },
+       "means_of_transport": "bus",
+       "amenities": [
+        "WIFI",
+        "POWER_SOCKETS"
+       ],
+       "is_marketplace": false,
+       "operator_id": "flixpl",
+       "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3",
+       "sub_brand_id": null,
+       "vehicle_details": [],
+       "layout_configuration": [
+        {
+         "column_layout": "TWO_TWO",
+         "deck": 0
+        }
+       ],
+       "cheapest_seat": "SEATER",
+       "seat_types": [
+        {
+         "seat_type_key": "SEATER",
+         "seat_type": "SEATER"
+        }
+       ]
+      }
+     ],
+     "messages": [],
+     "restrictions": {
+      "sale_restriction": false,
+      "info_title": "",
+      "info_title_hint": "",
+      "info_message": "",
+      "bikes_allowed": true,
+      "wheelchair_status": "unknown"
+     }
+    },
+    "direct:420d59e9-cec7-4f3c-a5d2-6f6f3d040d7c:dcbaaee6-9603-11e6-9066-549f350fcb0c:dcbabbfa-9603-11e6-9066-549f350fcb0c": {
+     "uid": "direct:420d59e9-cec7-4f3c-a5d2-6f6f3d040d7c:dcbaaee6-9603-11e6-9066-549f350fcb0c:dcbabbfa-9603-11e6-9066-549f350fcb0c",
+     "status": "available",
+     "transfer_type": "Direkt",
+     "transfer_type_key": "direct",
+     "provider": "flixbus",
+     "departure": {
+      "date": "2026-08-20T07:40:00+02:00",
+      "city_id": "40d8f682-8646-11e6-9066-549f350fcb0c",
+      "station_id": "dcbaaee6-9603-11e6-9066-549f350fcb0c"
+     },
+     "arrival": {
+      "date": "2026-08-20T15:35:00+02:00",
+      "city_id": "40d901a5-8646-11e6-9066-549f350fcb0c",
+      "station_id": "dcbabbfa-9603-11e6-9066-549f350fcb0c"
+     },
+     "duration": {
+      "hours": 7,
+      "minutes": 55
+     },
+     "price": {
+      "total": 29.49,
+      "original": 29.49,
+      "average": 29.49,
+      "total_with_platform_fee": 30.48,
+      "average_with_platform_fee": 30.48
+     },
+     "remaining": {
+      "seats_left_at_price": 1,
+      "seats": null,
+      "bike_slots": 0,
+      "capacity": "high"
+     },
+     "available": {
+      "seats": 37,
+      "bike_slots": 0
+     },
+     "legs": [
+      {
+       "ride_id": "420d59e9-cec7-4f3c-a5d2-6f6f3d040d7c",
+       "departure": {
+        "date": "2026-08-20T07:40:00+02:00",
+        "city_id": "40d8f682-8646-11e6-9066-549f350fcb0c",
+        "station_id": "dcbaaee6-9603-11e6-9066-549f350fcb0c"
+       },
+       "arrival": {
+        "date": "2026-08-20T15:35:00+02:00",
+        "city_id": "40d901a5-8646-11e6-9066-549f350fcb0c",
+        "station_id": "dcbabbfa-9603-11e6-9066-549f350fcb0c"
+       },
+       "means_of_transport": "bus",
+       "amenities": [
+        "WIFI",
+        "POWER_SOCKETS"
+       ],
+       "is_marketplace": false,
+       "operator_id": "mfb",
+       "brand_id": "a18f138c-68fa-4b45-a42f-adb0378e10d3",
+       "sub_brand_id": null,
+       "vehicle_details": [],
+       "layout_configuration": [
+        {
+         "column_layout": "TWO_TWO",
+         "deck": 0
+        }
+       ],
+       "cheapest_seat": "SEATER",
+       "seat_types": [
+        {
+         "seat_type_key": "SEATER",
+         "seat_type": "SEATER"
+        }
+       ]
+      }
+     ],
+     "messages": [],
+     "restrictions": {
+      "sale_restriction": false,
+      "info_title": "",
+      "info_title_hint": "",
+      "info_message": "",
+      "bikes_allowed": true,
+      "wheelchair_status": "unknown"
+     },
+     "intermediate_stations_count": 0
+    }
+   }
+  }
+ ],
+ "cities": {
+  "40d8f682-8646-11e6-9066-549f350fcb0c": {
+   "name": "Berlin",
+   "slug": "berlin",
+   "legacy_id": 88,
+   "id": "40d8f682-8646-11e6-9066-549f350fcb0c"
+  },
+  "40d901a5-8646-11e6-9066-549f350fcb0c": {
+   "name": "München",
+   "slug": "muenchen",
+   "legacy_id": 94,
+   "id": "40d901a5-8646-11e6-9066-549f350fcb0c"
+  },
+  "40d917f9-8646-11e6-9066-549f350fcb0c": {
+   "name": "Leipzig",
+   "slug": "leipzig",
+   "legacy_id": 113,
+   "id": "40d917f9-8646-11e6-9066-549f350fcb0c"
+  },
+  "40da5768-8646-11e6-9066-549f350fcb0c": {
+   "name": "Halle (Saale)",
+   "slug": "halle-saale",
+   "legacy_id": 152,
+   "id": "40da5768-8646-11e6-9066-549f350fcb0c"
+  },
+  "40db219f-8646-11e6-9066-549f350fcb0c": {
+   "name": "Dresden",
+   "slug": "dresden",
+   "legacy_id": 355,
+   "id": "40db219f-8646-11e6-9066-549f350fcb0c"
+  },
+  "40dc7b76-8646-11e6-9066-549f350fcb0c": {
+   "name": "Regensburg",
+   "slug": "regensburg",
+   "legacy_id": 653,
+   "id": "40dc7b76-8646-11e6-9066-549f350fcb0c"
+  },
+  "40de1ad1-8646-11e6-9066-549f350fcb0c": {
+   "name": "Prag",
+   "slug": "prague",
+   "legacy_id": 1374,
+   "id": "40de1ad1-8646-11e6-9066-549f350fcb0c"
+  }
+ },
+ "stations": {
+  "dcbaaee6-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbaaee6-9603-11e6-9066-549f350fcb0c",
+   "name": "Berlin ZOB"
+  },
+  "dcbabbfa-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbabbfa-9603-11e6-9066-549f350fcb0c",
+   "name": "München ZOB"
+  },
+  "dcbad0e0-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbad0e0-9603-11e6-9066-549f350fcb0c",
+   "name": "Leipzig Hbf"
+  },
+  "dcbb27d4-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbb27d4-9603-11e6-9066-549f350fcb0c",
+   "name": "Halle"
+  },
+  "dcbb7a42-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbb7a42-9603-11e6-9066-549f350fcb0c",
+   "name": "Dresden Hbf"
+  },
+  "dcbb994f-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbb994f-9603-11e6-9066-549f350fcb0c",
+   "name": "Berlin Südkreuz Bf"
+  },
+  "dcbbf708-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbbf708-9603-11e6-9066-549f350fcb0c",
+   "name": "Regensburg Hbf"
+  },
+  "dcbc32c3-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbc32c3-9603-11e6-9066-549f350fcb0c",
+   "name": "Berlin Alexanderplatz"
+  },
+  "dcbc6452-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbc6452-9603-11e6-9066-549f350fcb0c",
+   "name": "Prag (ZOB Florenc)"
+  },
+  "dcbfd6bc-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcbfd6bc-9603-11e6-9066-549f350fcb0c",
+   "name": "Berlin (U Alt-Tegel)"
+  },
+  "dcc0b7f3-9603-11e6-9066-549f350fcb0c": {
+   "id": "dcc0b7f3-9603-11e6-9066-549f350fcb0c",
+   "name": "München Fröttmaning"
+  },
+  "394a5408-d778-4959-a63e-973253443ed2": {
+   "id": "394a5408-d778-4959-a63e-973253443ed2",
+   "name": "Berlin Hbf"
+  },
+  "895f31c8-7f88-4d8f-a070-4b4a6320160a": {
+   "id": "895f31c8-7f88-4d8f-a070-4b4a6320160a",
+   "name": "Berlin Südkreuz"
+  },
+  "e6f7f0f4-4bb5-45a0-bcc2-d5e7279686dd": {
+   "id": "e6f7f0f4-4bb5-45a0-bcc2-d5e7279686dd",
+   "name": "Berlin-Spandau"
+  }
+ },
+ "platform_fee_in_price_required": true
+}

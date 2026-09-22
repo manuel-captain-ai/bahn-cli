@@ -1,0 +1,572 @@
+{
+ "outbounds": {
+  "3674476573295795130-4408-train-2": {
+   "companyId": "4408",
+   "duration": "447",
+   "departureTime": "2026-08-05T11:53:00.000+02:00",
+   "arrivalTime": "2026-08-05T19:20:00.000+02:00",
+   "segments": [
+    -666296474,
+    -1942017250,
+    1265062467
+   ],
+   "segmentClasses": [
+    {
+     "ids": [
+      "-666296474",
+      "-1942017250",
+      "1265062467"
+     ],
+     "className": "Providers.obbconnect.SECOND"
+    }
+   ],
+   "isCarSharing": false,
+   "stops": "2",
+   "mode": "train",
+   "isRoutedConnection": false,
+   "isNearbyDeparture": false,
+   "isNearbyArrival": false,
+   "isGoEuroBooking": true,
+   "ticketsSellingCompanies": [
+    "4408"
+   ],
+   "outboundId": "3674476573295795130",
+   "journeyId": "-1780692871",
+   "price": 9300,
+   "updatedAt": "35",
+   "isBookable": true,
+   "isMultiProvidersRouting": false,
+   "isMobileTicketSupported": false,
+   "serviceProviderIds": [
+    "100082"
+   ],
+   "status": "available",
+   "isDiscountCardApplied": false,
+   "isVehicleAvailable": false,
+   "additionalServices": [],
+   "isAirportTransfer": false,
+   "isConnectionGuarantee": false,
+   "overtakenByJourneyCount": 0,
+   "ticketsLeft": 10,
+   "ticketsLeftDisplayMode": "DONT_DISPLAY",
+   "isSplitTicket": false,
+   "availableOfferOptions": [
+    {
+     "type": "ONE_WAY",
+     "cheapestClassName": "Providers.obbconnect.SECOND",
+     "cheapestClassPrice": 9300,
+     "discounts": [],
+     "availabilityRank": 99,
+     "unavailabilityReasons": [],
+     "fullFareId": "obbconnect.STANDARD",
+     "isAvailable": true
+    },
+    {
+     "type": "ONE_WAY",
+     "cheapestClassName": "Providers.obbconnect.FIRST",
+     "cheapestClassPrice": 16600,
+     "discounts": [],
+     "availabilityRank": 99,
+     "unavailabilityReasons": [],
+     "fullFareId": "obbconnect.STANDARD",
+     "isAvailable": true
+    }
+   ]
+  },
+  "-7390090664238252199-4408-train-4": {
+   "companyId": "4408",
+   "duration": "469",
+   "departureTime": "2026-08-05T09:34:00.000+02:00",
+   "arrivalTime": "2026-08-05T17:23:00.000+02:00",
+   "segments": [
+    -2120688986,
+    -1489547589,
+    -43735460,
+    -587751612,
+    -735165294
+   ],
+   "segmentClasses": [
+    {
+     "ids": [
+      "-2120688986",
+      "-1489547589",
+      "-43735460",
+      "-587751612",
+      "-735165294"
+     ],
+     "className": "Providers.obbconnect.SECOND"
+    }
+   ],
+   "isCarSharing": false,
+   "stops": "4",
+   "mode": "train",
+   "isRoutedConnection": false,
+   "isNearbyDeparture": false,
+   "isNearbyArrival": false,
+   "isGoEuroBooking": true,
+   "ticketsSellingCompanies": [
+    "4408"
+   ],
+   "outboundId": "-7390090664238252199",
+   "journeyId": "701754622",
+   "price": 3175,
+   "updatedAt": "32",
+   "isBookable": true,
+   "isMultiProvidersRouting": false,
+   "isMobileTicketSupported": false,
+   "serviceProviderIds": [
+    "100082"
+   ],
+   "status": "available",
+   "isDiscountCardApplied": false,
+   "isVehicleAvailable": false,
+   "additionalServices": [],
+   "isAirportTransfer": true,
+   "isConnectionGuarantee": false,
+   "overtakenByJourneyCount": 0,
+   "ticketsLeft": 10,
+   "ticketsLeftDisplayMode": "DONT_DISPLAY",
+   "isSplitTicket": false,
+   "availableOfferOptions": [
+    {
+     "type": "ONE_WAY",
+     "cheapestClassName": "Providers.obbconnect.SECOND",
+     "cheapestClassPrice": 3175,
+     "discounts": [],
+     "availabilityRank": 99,
+     "unavailabilityReasons": [],
+     "fullFareId": "obbconnect.SPARSCHIENE",
+     "isAvailable": true
+    },
+    {
+     "type": "ONE_WAY",
+     "cheapestClassName": "Providers.obbconnect.FIRST",
+     "cheapestClassPrice": 8447,
+     "discounts": [],
+     "availabilityRank": 99,
+     "unavailabilityReasons": [],
+     "fullFareId": "obbconnect.SPARSCHIENE",
+     "isAvailable": true
+    }
+   ]
+  },
+  "8823906906464319236-1045-bus-0": {
+   "companyId": "1045",
+   "duration": "325",
+   "departureTime": "2026-08-05T06:35:00.000+02:00",
+   "arrivalTime": "2026-08-05T12:00:00.000+02:00",
+   "segments": [
+    -597083085
+   ],
+   "segmentClasses": [
+    {
+     "ids": [
+      "-597083085"
+     ],
+     "className": ""
+    }
+   ],
+   "isCarSharing": false,
+   "stops": "0",
+   "mode": "bus",
+   "isRoutedConnection": false,
+   "isNearbyDeparture": false,
+   "isNearbyArrival": false,
+   "isGoEuroBooking": true,
+   "ticketsSellingCompanies": [
+    "1045"
+   ],
+   "outboundId": "8823906906464319236",
+   "journeyId": "62615840",
+   "price": 3272,
+   "updatedAt": "31",
+   "isBookable": true,
+   "isMultiProvidersRouting": false,
+   "isMobileTicketSupported": false,
+   "serviceProviderIds": [
+    "100104"
+   ],
+   "status": "available",
+   "isDiscountCardApplied": false,
+   "isVehicleAvailable": false,
+   "additionalServices": [],
+   "isAirportTransfer": false,
+   "isConnectionGuarantee": false,
+   "overtakenByJourneyCount": 0,
+   "ticketsLeft": 65,
+   "ticketsLeftDisplayMode": "DONT_DISPLAY",
+   "isSplitTicket": false,
+   "availableOfferOptions": [
+    {
+     "type": "ONE_WAY",
+     "cheapestClassName": "",
+     "cheapestClassPrice": 3272,
+     "discounts": [],
+     "availabilityRank": 99,
+     "unavailabilityReasons": [],
+     "fullFareId": "flixbusConnect.NORMAL",
+     "isAvailable": true
+    }
+   ]
+  },
+  "6500602212003186204-1045-bus-0": {
+   "companyId": "1045",
+   "duration": "330",
+   "departureTime": "2026-08-05T18:00:00.000+02:00",
+   "arrivalTime": "2026-08-05T23:30:00.000+02:00",
+   "segments": [
+    1029017548
+   ],
+   "segmentClasses": [
+    {
+     "ids": [
+      "1029017548"
+     ],
+     "className": ""
+    }
+   ],
+   "isCarSharing": false,
+   "stops": "0",
+   "mode": "bus",
+   "isRoutedConnection": false,
+   "isNearbyDeparture": false,
+   "isNearbyArrival": false,
+   "isGoEuroBooking": true,
+   "ticketsSellingCompanies": [
+    "1045"
+   ],
+   "outboundId": "6500602212003186204",
+   "journeyId": "-2074214198",
+   "price": 3500,
+   "updatedAt": "31",
+   "isBookable": true,
+   "isMultiProvidersRouting": false,
+   "isMobileTicketSupported": false,
+   "serviceProviderIds": [
+    "100104"
+   ],
+   "status": "available",
+   "isDiscountCardApplied": false,
+   "isVehicleAvailable": false,
+   "additionalServices": [],
+   "isAirportTransfer": false,
+   "isConnectionGuarantee": false,
+   "overtakenByJourneyCount": 0,
+   "ticketsLeft": 33,
+   "ticketsLeftDisplayMode": "DONT_DISPLAY",
+   "isSplitTicket": false,
+   "availableOfferOptions": [
+    {
+     "type": "ONE_WAY",
+     "cheapestClassName": "",
+     "cheapestClassPrice": 3500,
+     "discounts": [],
+     "availabilityRank": 99,
+     "unavailabilityReasons": [],
+     "fullFareId": "flixbusConnect.NORMAL",
+     "isAvailable": true
+    }
+   ]
+  }
+ },
+ "segmentDetails": {
+  "-1489547589": {
+   "type": "train",
+   "departureTime": "2026-08-05T09:53:00.000+02:00",
+   "departureZoneId": "Europe/Vienna",
+   "arrivalTime": "2026-08-05T12:19:00.000+02:00",
+   "arrivalZoneId": "Europe/Vienna",
+   "departurePosition": "336827",
+   "arrivalPosition": "16804787",
+   "duration": "146",
+   "company": "4408",
+   "marketingCompany": "0",
+   "transportId": "IC 533",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": []
+  },
+  "-43735460": {
+   "type": "train",
+   "departureTime": "2026-08-05T12:28:00.000+02:00",
+   "departureZoneId": "Europe/Vienna",
+   "arrivalTime": "2026-08-05T13:27:00.000+02:00",
+   "arrivalZoneId": "Europe/Ljubljana",
+   "departurePosition": "16804787",
+   "arrivalPosition": "16842553",
+   "duration": "59",
+   "company": "4394",
+   "marketingCompany": "0",
+   "transportId": "IR 573",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": []
+  },
+  "1029017548": {
+   "type": "bus",
+   "departureTime": "2026-08-05T18:00:00.000+02:00",
+   "departureZoneId": "Europe/Vienna",
+   "arrivalTime": "2026-08-05T23:30:00.000+02:00",
+   "arrivalZoneId": "Europe/Zagreb",
+   "departurePosition": "16888334",
+   "arrivalPosition": "14371046",
+   "duration": "330",
+   "company": "1045",
+   "marketingCompany": "0",
+   "transportId": "FlixBus",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": [],
+   "trekId": "f1b78490-1de5-4175-93a0-89d19142adc0"
+  },
+  "1265062467": {
+   "type": "train",
+   "departureTime": "2026-08-05T17:44:00.000+02:00",
+   "departureZoneId": "Europe/Ljubljana",
+   "arrivalTime": "2026-08-05T19:20:00.000+02:00",
+   "arrivalZoneId": "Europe/Zagreb",
+   "departurePosition": "16936024",
+   "arrivalPosition": "16842535",
+   "duration": "96",
+   "company": "4429",
+   "marketingCompany": "0",
+   "transportId": "EC 115",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": []
+  },
+  "-735165294": {
+   "type": "train",
+   "departureTime": "2026-08-05T15:51:00.000+02:00",
+   "departureZoneId": "Europe/Ljubljana",
+   "arrivalTime": "2026-08-05T17:23:00.000+02:00",
+   "arrivalZoneId": "Europe/Zagreb",
+   "departurePosition": "16936024",
+   "arrivalPosition": "16842535",
+   "duration": "92",
+   "company": "4394",
+   "marketingCompany": "0",
+   "transportId": "211",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": []
+  },
+  "-597083085": {
+   "type": "bus",
+   "departureTime": "2026-08-05T06:35:00.000+02:00",
+   "departureZoneId": "Europe/Vienna",
+   "arrivalTime": "2026-08-05T12:00:00.000+02:00",
+   "arrivalZoneId": "Europe/Zagreb",
+   "departurePosition": "16888334",
+   "arrivalPosition": "14371046",
+   "duration": "325",
+   "company": "1045",
+   "marketingCompany": "0",
+   "transportId": "FlixBus",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": [],
+   "trekId": "80ebb58f-dffd-4a0c-adaf-4c5db8095e45"
+  },
+  "-2120688986": {
+   "type": "train",
+   "departureTime": "2026-08-05T09:34:00.000+02:00",
+   "departureZoneId": "Europe/Vienna",
+   "arrivalTime": "2026-08-05T09:48:00.000+02:00",
+   "arrivalZoneId": "Europe/Vienna",
+   "departurePosition": "336795",
+   "arrivalPosition": "336827",
+   "duration": "14",
+   "company": "4408",
+   "marketingCompany": "0",
+   "transportId": "IC 548",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": []
+  },
+  "-1942017250": {
+   "type": "train",
+   "departureTime": "2026-08-05T14:28:00.000+02:00",
+   "departureZoneId": "Europe/Vienna",
+   "arrivalTime": "2026-08-05T16:42:00.000+02:00",
+   "arrivalZoneId": "Europe/Ljubljana",
+   "departurePosition": "16804787",
+   "arrivalPosition": "16936024",
+   "duration": "134",
+   "company": "4394",
+   "marketingCompany": "0",
+   "transportId": "IR 575",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": []
+  },
+  "-666296474": {
+   "type": "train",
+   "departureTime": "2026-08-05T11:53:00.000+02:00",
+   "departureZoneId": "Europe/Vienna",
+   "arrivalTime": "2026-08-05T14:19:00.000+02:00",
+   "arrivalZoneId": "Europe/Vienna",
+   "departurePosition": "336827",
+   "arrivalPosition": "16804787",
+   "duration": "146",
+   "company": "4408",
+   "marketingCompany": "0",
+   "transportId": "IC 535",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": []
+  },
+  "-587751612": {
+   "type": "train",
+   "departureTime": "2026-08-05T13:40:00.000+02:00",
+   "departureZoneId": "Europe/Ljubljana",
+   "arrivalTime": "2026-08-05T14:52:00.000+02:00",
+   "arrivalZoneId": "Europe/Ljubljana",
+   "departurePosition": "16842553",
+   "arrivalPosition": "16936024",
+   "duration": "72",
+   "company": "4399",
+   "marketingCompany": "0",
+   "transportId": "R 615",
+   "direction": "OUTBOUND",
+   "noChangeForNextSegment": false,
+   "tags": []
+  }
+ },
+ "positions": {
+  "16804787": {
+   "positionType": "station",
+   "name": "Graz Hbf",
+   "countryCode": "AT",
+   "cityName": "Graz",
+   "latitude": 47.0725,
+   "longitude": 15.41646,
+   "ticketVendingMachine": false
+  },
+  "14371046": {
+   "positionType": "busstation",
+   "name": "Zagreb, Bus Station",
+   "countryCode": "HR",
+   "cityName": "Zagreb",
+   "latitude": 45.80383300518399,
+   "longitude": 15.993126846718866,
+   "ticketVendingMachine": false
+  },
+  "16936024": {
+   "positionType": "station",
+   "name": "Zidani Most",
+   "countryCode": "SI",
+   "cityName": "Zidani Most",
+   "latitude": 46.0857012,
+   "longitude": 15.170446,
+   "ticketVendingMachine": false
+  },
+  "336827": {
+   "positionType": "station",
+   "name": "Vienna Hbf",
+   "countryCode": "AT",
+   "cityName": "Vienna",
+   "latitude": 48.185147,
+   "longitude": 16.37484,
+   "ticketVendingMachine": false
+  },
+  "336795": {
+   "positionType": "station",
+   "name": "Vienna Airport",
+   "countryCode": "AT",
+   "cityName": "Fischamend",
+   "latitude": 48.121225,
+   "longitude": 16.562373,
+   "ticketVendingMachine": false
+  },
+  "16842535": {
+   "positionType": "station",
+   "name": "Zagreb Main Station",
+   "countryCode": "HR",
+   "cityName": "Zagreb",
+   "latitude": 45.804671,
+   "longitude": 15.9788122,
+   "ticketVendingMachine": false
+  },
+  "16888334": {
+   "positionType": "busstation",
+   "name": "Vienna, International Busterminal (VIB)",
+   "countryCode": "AT",
+   "cityName": "Vienna",
+   "latitude": 48.19085937670825,
+   "longitude": 16.413942893219428,
+   "ticketVendingMachine": false
+  },
+  "16842553": {
+   "positionType": "station",
+   "name": "Maribor",
+   "countryCode": "SI",
+   "cityName": "Maribor",
+   "latitude": 46.562065,
+   "longitude": 15.658011,
+   "ticketVendingMachine": false
+  }
+ },
+ "companies": {
+  "1045": {
+   "id": "1045",
+   "name": "FlixBus",
+   "code": "meinfernbus_flixbus",
+   "logoUrl": "https://static.omio.design/web/logos/{size}/meinfernbus_flixbus.png",
+   "companyCodes": [
+    {
+     "code": "flixbus",
+     "type": "GOEURO"
+    }
+   ]
+  },
+  "4394": {
+   "id": "4394",
+   "name": "ÖBB",
+   "code": "obb",
+   "logoUrl": "https://static.omio.design/web/logos/{size}/obb.png",
+   "companyCodes": [
+    {
+     "code": "obb",
+     "type": "GOEURO"
+    }
+   ]
+  },
+  "4399": {
+   "id": "4399",
+   "name": "ÖBB | Regionalzug",
+   "code": "obb_regionalzug",
+   "logoUrl": "https://static.omio.design/web/logos/{size}/obb_regionalzug.png",
+   "companyCodes": [
+    {
+     "code": "obb_regionalzug",
+     "type": "GOEURO"
+    }
+   ]
+  },
+  "4408": {
+   "id": "4408",
+   "name": "ÖBB | InterCity",
+   "code": "obb_intercity",
+   "logoUrl": "https://static.omio.design/web/logos/{size}/obb_intercity.png",
+   "companyCodes": [
+    {
+     "code": "obb_intercity",
+     "type": "GOEURO"
+    }
+   ]
+  },
+  "4429": {
+   "id": "4429",
+   "name": "ÖBB | Euro City (EC)",
+   "code": "obb_eurocity",
+   "logoUrl": "https://static.omio.design/web/logos/{size}/obb_eurocity.png",
+   "companyCodes": [
+    {
+     "code": "obb_eurocity",
+     "type": "GOEURO"
+    }
+   ]
+  }
+ }
+}
